@@ -8,7 +8,7 @@
 
 #masthead {
 	padding: $gutter;
-	z-index: 5;
+	z-index: 20;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
@@ -23,7 +23,7 @@
 	@include media($large) {
 		@include span-columns(4);
 	}
-	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
+	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically (default 25)
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
@@ -32,6 +32,13 @@
 	@include font-size(20,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+
+.site-title img{
+	//width: 60px;
+	height: 60px;
+	margin-right: 10px;
 }
 
 
@@ -136,7 +143,18 @@
 	&.slide {
 		@include transform(translate(-60rem,0));
 	}
+
 }
+
+.hr-lebar {	    
+    top: 0;
+    left: 0;
+    width: 80%;
+    height: 1px;
+    background: #ddd;
+    margin: 0 auto;
+}
+
 
 /*
    Main content
@@ -205,7 +223,7 @@
 		margin-left: -$gutter;
 		margin-right: -$gutter;
 		padding: 10px 0 20px;
-		background: lighten($border-color,5);
+		//background: lighten($border-color,5);
 		@include media($medium) {
 			@include span-columns(3);
 			margin-left: 0;

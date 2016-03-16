@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: Timposu Labs
+description: "Teknologi adalah Alat untuk Berkehidupan"
+logo: timposu.png # 120x120 px default image used for Twitter summary card
+teaser: photo-1441015401724-70d16b783f5c.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: 
 
 # Jekyll configuration
 
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
+permalink: /:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
@@ -34,18 +34,18 @@ page_layout: article
 # Format titles with titlecase?
 titlecase: true
 
-
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
-  google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
-
+  name: Ucup Timposu
+  web: http://timposu.com
+  email: ucup.timposu@gmail.com
+  twitter: ucuptimposu
+  bio: "Founder <a href='http://timposu.com'>Timposu.com</a>, love Java dan teknologi open source."
+  avatar: bio-ucup-mancing.png # 160x160 px image for author byline
+  google: 
+    ad-client: ca-pub-4504493660273886
+    ad-slot: 7129625873
+  disqus-shortname: timposu
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+

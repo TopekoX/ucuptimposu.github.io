@@ -25,6 +25,8 @@ layout: default
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
+				<br/>
+				{% if page.ads == true %}{% include advertising-box.html %}{% endif %}
 				<aside>
 					{% if page.comments == true %}{% include comments.html %}{% endif %}
 				</aside>
