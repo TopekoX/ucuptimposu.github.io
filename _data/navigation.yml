@@ -1,11 +1,13 @@
 # Site navigation links
 
-- title: Blog
-  url: /blog/
-  excerpt: "Blog Tutorial"
-  image: photo-1441015401724-70d16b783f5c.jpg
 
 - title: About
   url: /about/
   excerpt: "About Timposu.com."
+  image: photo-1441015401724-70d16b783f5c.jpg
+
+
+- title: Blog
+  url: /blog/
+  excerpt: "Blog Tutorial"
   image: photo-1441015401724-70d16b783f5c.jpg

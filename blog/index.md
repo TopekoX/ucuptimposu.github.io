@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: Blog
-date: 2016-03-14T23:23:51+08:00
+date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt:
-image: 
+excerpt: "A collection of thoughts, inspiration, mistakes, and other minutia."
+tags: []
+image:
   feature:
   teaser:
-  thumb: photo-1441015401724-70d16b783f5c.jpg
 ---
 
 <div class="tiles">
