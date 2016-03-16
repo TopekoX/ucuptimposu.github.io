@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /blog
+permalink: blog
 title: "Daftar Artikel"
 ---
 
