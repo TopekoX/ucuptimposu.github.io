@@ -3,7 +3,7 @@ layout: archive
 title: "MySQL"
 date: 2016-03-16T11:39:03-04:00
 modified:
-excerpt: "Kumpulan Artikel Pemrograman Android"
+excerpt: "Kumpulan Artikel MySQL"
 tags: []
 image:
   feature:

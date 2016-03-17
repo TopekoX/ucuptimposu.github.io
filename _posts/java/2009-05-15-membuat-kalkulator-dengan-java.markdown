@@ -7,6 +7,9 @@ title: Membuat Kalkulator dengan Java
 categories: java
 tags: [java,java swing]
 ads: true
+image:
+  feature:
+  teaser: java.jpg
 ---
 
 [![](http://timposu.com/wp-content/uploads/2009/05/kalkulator.jpg)](http://timposu.com/wp-content/uploads/2009/05/kalkulator.jpg)  

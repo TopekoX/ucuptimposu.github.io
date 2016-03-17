@@ -8,6 +8,9 @@ title: Mengubah Text pada Frame menjadi tidak Bold(Bercetak Tebal)
 wordpress_id: 301
 categories: java
 tags: [java, java swing]
+image:
+  feature:
+  teaser: java.jpg
 ---
 
 Defaultnya ketika kita membuat program Java Swing , text pada Frame yang ditampilkan itu defaultnya bercetak tebal atau Bold.

@@ -6,6 +6,9 @@ title: Backup database MySql dengan mysqldump
 categories: mysql
 tags: mysql
 ads: true
+image:
+  feature: 
+  teaser:  mysql-maria.jpg
 ---
 
 Mysqldump adalah program klien yang mengexport isi tabel ke file-file. Program ini bermanfaat untuk:

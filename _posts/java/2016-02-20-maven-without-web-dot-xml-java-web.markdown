@@ -4,8 +4,11 @@ title: "Maven Without web.xml Java Web"
 date: 2016-02-20 19:15:08 +0800
 comments: true
 categories: [java]
-tags: [java enterprise, javaee, java web]
+tags: [java, javaee, java web]
 ads: true
+image:
+  feature:
+  teaser: java-code.jpg
 ---
 
 Semenjak _Servlet Spec_ sudah memasuki versi 3.0 penggunaan `web.xml` di java web sudah bersifat optional, akan tetapi ketika kita menggunakan maven misalnya, saat menjalankan Tomcat server maka maven akan error jika file `web.xml` tidak ada. Untuk mengatasi itu kita tinggal menambahkan kode xml di bawah ini ke dalam file `pom.xml` pada tag `build` :

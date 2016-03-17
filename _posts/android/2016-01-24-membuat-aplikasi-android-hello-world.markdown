@@ -4,7 +4,7 @@ title: "Membuat aplikasi Android 'Hello World' dengan Android Studio"
 date: 2016-01-24 13:27:04 +0800
 comments: true
 categories: android
-tags: [Android, Pemrograman Android, Android Studio, Java]
+tags: [android, pemrograman android, android studio, java]
 ads: true
 ---
 
