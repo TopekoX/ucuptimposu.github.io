@@ -121,7 +121,7 @@ Secara default Android Studio sudah membuat coding aplikasi Hello World.. kita b
 ```
 Jika anda ingin mengubah tulisan sesuai keinginan silahkan ganti text string yang ada pada `android:text` di tag widget `TextView`.
 
-File layout di atas akan dipanggil oleh class `MainAcivity.java` melalui method ` setContentView(R.layout.activity_main) `
+File layout di atas akan dipanggil oleh class `MainAcivity.java` melalui method `setContentView(R.layout.activity_main)`
 
 ```java
 package com.timposu.helloapp;

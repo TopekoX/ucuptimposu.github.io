@@ -12,8 +12,11 @@ image:
 ads: true
 ---
 
-[Timposu.com](http://timposu.com) adalah tempat kumpulan tutorial pemrograman dan artikel lainnya. Kami berusaha sebaik mungkin menyajikan tutorial yang terstruktur dan berkualitas agar bisa dimanfaatkan oleh anak-anak bangsa. 
+[Timposu.com](http://timposu.com) adalah situs belajar tutorial pemrograman dan artikel lainnya. Kami berusaha sebaik mungkin menyajikan tutorial yang bisa dimanfaatkan oleh anak-anak bangsa. Diharapkan Timposu.com dapat menjadi media belajar dan saling berbagi tentang programming atau seputar ilmu komputer.
 
+Saat ini Timposu.com masih fokus kepada pengembagan materi tutorial pemrograman, administrasi jaringan, dll, semoga tutorial yang ada di Timposu.com dapat berguna buat anda semua.
 
-[Timposu.com](http://timposu.com) dibuat, ditulis, dan maintained oleh Ucup Timposu, menggunakan core [Jekyll](http://jekyllrb.com/) dengan Hosting [Github Pages](https://pages.github.com/).
+Salam 
+
+**Ucup Timposu** - Admin Timposu.com
 
