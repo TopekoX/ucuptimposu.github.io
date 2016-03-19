@@ -20,9 +20,6 @@ layout: default
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
 	
-				<!-- ads kotak bawah -->
-				{% if page.ads == true %}{% include advertising-box.html %}{% endif %}<!-- / .ads kotak bawah -->
-				
 				<hr />
 				<footer class="page-footer">
 					{% if page.categories %}{% include page-author.html %}{% endif %}
@@ -37,8 +34,9 @@ layout: default
 					    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
 					  {% endif %}
 					</div>
-
-
+					<!-- ads kotak bawah -->
+					{% if page.ads == true %}{% include advertising-box.html %}{% endif %}<!-- / .ads kotak bawah -->
+				
 				</footer><!-- /.footer -->
 				<br/>
 				<!-- related post -->			

@@ -18,14 +18,14 @@ Didalam Bahasa Pemograman Java, kita mengenal
 
 
 
-  * **Class **: Class adalah inti program java, setiap kita membuat program dalam java berarti kita akan membuat class, yang perlu diperhatikan nama class harus sama dengan nama file class tersebut contoh kita akan membuat class dengan nama file ` NamaKelas.java `
+  * **Class**: Class adalah inti program java, setiap kita membuat program dalam java berarti kita akan membuat class, yang perlu diperhatikan nama class harus sama dengan nama file class tersebut contoh kita akan membuat class dengan nama file `NamaKelas.java`
 
 
 
 
-
-    public class NamaKelas { }
-
+```java
+public class NamaKelas { }
+```
 
 
 
@@ -41,18 +41,14 @@ Didalam Bahasa Pemograman Java, kita mengenal
 
 
 
-
-    public class NamaKelas {
-      void namaMethod(){}
-    }
-
-
-
+```java
+public class NamaKelas {
+void namaMethod(){}
+}
+```
 
 
-
-
-  * **Instance Variables **: Setiap objek memiliki seperangkat properti yang unik dari variabel. Variabel tersebut dapat diisi/dimodifikasi dengan nilai-nilai melalui objek yang dibuat.
+  * **Instance Variables**: Setiap objek memiliki seperangkat properti yang unik dari variabel. Variabel tersebut dapat diisi/dimodifikasi dengan nilai-nilai melalui objek yang dibuat.
 
 
 
@@ -73,28 +69,25 @@ Program Hello World biasanya digunakan oleh programmer sebagai kode program pert
   * Buka aplikasi editor misal notepad, gedit dll
 
 
-  * Buat kode program dibawah ini, saya akan mengganti Hello World dengan Halo Dunia, simpan dengan nama ` Halo.java ` . Ingat ekstensinya ` .java `
+  * Buat kode program dibawah ini, saya akan mengganti Hello World dengan Halo Dunia, simpan dengan nama `Halo.java` . Ingat ekstensinya `.java`
 
 
 
 
 
-    public class Halo{   
-        public static void main(String[] args){
-            System.out.println("Halo dunia");
-        }
-    }
+```java
+public class Halo{   
+	public static void main(String[] args){
+    		System.out.println("Halo dunia");
+	}
+}
+```
 
 
+  * Buka command prompt lalu arahkan ke direktori filenya lalu ketik `javac Halo.java` untuk mencompile
 
 
-
-
-
-  * Buka command prompt lalu arahkan ke direktori filenya lalu ketik ` javac Halo.java ` untuk mencompile
-
-
-  * Jika tidak ada masalah, jalankan programnya dengan perintah ` java Halo `
+  * Jika tidak ada masalah, jalankan programnya dengan perintah `java Halo`
 
 
 
@@ -119,13 +112,14 @@ Didalam java ada beberapa aturan ketika menulis program  java
   * **Case Sensitive** : Kita tidak boleh salah menempatkan huruf besar dan huruf kecil karena sangat berpengaruh .
 
 
-  * **Nama Class **: Setiap membuat nama class huruf pertama diawali dengan huruf besar , ini sudah merupakan kebiasaan oleh programmer java seluruh dunia, contoh kita akan membuat class java yang terdiri dari beberapa kata
+  * **Nama Class** : Setiap membuat nama class huruf pertama diawali dengan huruf besar , ini sudah merupakan kebiasaan oleh programmer java seluruh dunia, contoh kita akan membuat class java yang terdiri dari beberapa kata
 
 
 
 
-
-    public class ProgramPertama { }
+```java
+public class ProgramPertama { }
+```
 
 
 
@@ -138,22 +132,22 @@ Didalam java ada beberapa aturan ketika menulis program  java
 
 
 
+```java
+public class ProgramPertama{
 
-    public class ProgramPertama{
-
-      public void iniMethodPertamaku() { }
-    }
-
-
-
+public void iniMethodPertamaku() { }
+}
+```
 
 
 
 
-  * **Nama Program **: Nama file program harus sesuai dengan nama kelas. Contoh nama program dari kelas ` ProgramPertama ` harus disimpan dengan nama file ` ProgramPertama.java ` .
 
 
-  * **public static void main(String args[])** : Setiap program java yang ingin di Run atau dijalankan,  harus memiliki method ` main() ` . Method ` main() ` berfungsi untuk menjalankan program Java, tanpa method ini program java hanya bisa dicompile tapi tidak bisa dijalankan.
+  * **Nama Program **: Nama file program harus sesuai dengan nama kelas. Contoh nama program dari kelas `ProgramPertama` harus disimpan dengan nama file `ProgramPertama.java` .
+
+
+  * **public static void main(String args[])** : Setiap program java yang ingin di Run atau dijalankan,  harus memiliki method `main()` . Method `main()` berfungsi untuk menjalankan program Java, tanpa method ini program java hanya bisa dicompile tapi tidak bisa dijalankan.
 
 
 
@@ -186,7 +180,7 @@ Tata cara penamaan identifers di java diatur oleh beberapa aturan:
   * Identifers di java bersifat case-sensitif, goo dengan Goo adalah dua buah identifers berbeda.
 
 
-  * Nama public class harus sama persis dengan nama fle .java
+  * Nama public class harus sama persis dengan nama fle `.java`
 
 
 
@@ -202,14 +196,14 @@ Seperti bahasa pemograman lainnya, java mengijinkan  memodifikasi kelas, metod
 
 
 
-  * **Access Modifiers: **default, public , protected, private
+  * **Access Modifiers:** default, public , protected, private
 
 
-  * **Non-access Modifiers: **final, abstract, strictfp
+  * **Non-access Modifiers:** final, abstract, strictfp
 
 
 
-Akan dibahas diarticleingan berikutnya
+Akan dibahas di artickel berikutnya
 
 
 
@@ -261,15 +255,14 @@ Berikut macam-macam keyword dalam java
 
 
 
-  * Untuk membuat komentar multi baris gunakan blok ` /* */  `
+  * Untuk membuat komentar multi baris gunakan blok `/* */ `
 
 
-  * Untuk membuat komentar satu baris gunakan blok ` // `
-
-
+  * Untuk membuat komentar satu baris gunakan blok `//`
 
 
 
+```java
     /*
     * ini adalah blok komentar
     * multi baris
@@ -282,8 +275,7 @@ Berikut macam-macam keyword dalam java
         }
 
     }
-
-
+```
 
 
 
