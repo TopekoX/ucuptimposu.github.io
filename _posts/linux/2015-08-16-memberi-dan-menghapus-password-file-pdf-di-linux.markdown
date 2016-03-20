@@ -7,6 +7,7 @@ title: Memberi dan Menghapus password file PDF di Linux
 categories: linux
 tags: [linux, security]
 ads: true
+youtubeId: hIDBsmaetYU
 image:
   feature: 
   teaser: leds_photo.jpg
@@ -16,9 +17,9 @@ image:
 Untuk Encrypt & Decrypt password pdf dilinux bisa menggunakan tool `pdftk` , tapi sebelumnya pastikan Java telah terinstall di sistem Linux anda install pdftk berbasis debian (Ubuntu , Mint dkk):
 
 
-
-    sudo apt-get install pdftk
-
+```bash
+sudo apt-get install pdftk
+```
 
 
 install pdftk berbasis redhat lihat petunjuk disini: [https://www.pdflabs.com/docs/install-pdftk-on-redhat-or-centos/](https://www.pdflabs.com/docs/install-pdftk-on-redhat-or-centos/) ketik di terminal : `pdftk` jika muncul pdftk command instructions berarti pdftk telah berhasil terpasang di Linux anda <!-- more -->
@@ -45,11 +46,6 @@ contoh:
 
 
 <table >
-
-<tr >
-  Kode          
-  Keterangan                                                    
-</tr>
 
 <tbody >
 <tr >
@@ -106,10 +102,6 @@ contoh:
 
 <table >
 
-<tr >
-  Kode
-  Keterangan
-</tr>
 
 <tbody >
 <tr >
@@ -140,3 +132,5 @@ contoh:
 </table>
 
 Nonton Videonya
+
+{% include youtube.html id=page.youtubeId %}

@@ -18,7 +18,9 @@ Pada tutorial kali ini kita akan mulai belajar tentang Pemrograman Android. Sebe
 * Punya komputer PC atau laptop yang cukup mumpuni karena kita akan menggunakan IDE [Android Studio](http://developer.android.com/sdk/index.html) yang cukup makan resource yang banyak.
 * Ketekunan dan pantang menyerah (wajib untuk semua programer).
 
-# Tools Yang dibutuhkan 
+{% include toc.html %}
+
+## Tools Yang dibutuhkan 
 
 * [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/) 1.7 atau yang lebih tinggi.
 * [Android Studio](http://developer.android.com/sdk/index.html) : IDE yang digunakan untuk membuat aplikasi Android
@@ -27,7 +29,7 @@ Pada tutorial kali ini kita akan mulai belajar tentang Pemrograman Android. Sebe
 
 <!-- more -->
 
-# Step by Step
+## Step by Step
 
 1. Install JDK
 2. Install [Android studio](http://developer.android.com/sdk/index.html).

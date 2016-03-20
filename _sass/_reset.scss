@@ -79,7 +79,7 @@ blockquote {
 // Img border in a's and image quality
 img {
 	// Set picture center position
-	display: block;
+	//display: block;
 	margin: 0 auto;
 	// Responsive images (ensure images don't scale beyond their parents)
 	max-width: 100%; // Part 1: Set a maximum relative to the parent
@@ -89,6 +89,10 @@ img {
 	vertical-align: middle;
 	border: 0;
 	-ms-interpolation-mode: bicubic;
+}
+
+.logo-header img{
+	display: none;
 }
 
 // Prevent max-width from affecting Google Maps

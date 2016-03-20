@@ -6,6 +6,7 @@ slug: teknologi-wireless-sudah-ada-dari-tahun-1920-an
 title: Teknologi Wireless sudah ada dari tahun 1920 an?
 categories: artikel
 tags: [artikel]
+youtubeId: Jb3G6jaEhkk
 ads: true
 ---
 
@@ -13,3 +14,4 @@ Ada yang menarik dari browsing saya di Yutub.. saya menemukan video dari channel
 
 Simak video ini :
 
+{% include youtube.html id=page.youtubeId %}

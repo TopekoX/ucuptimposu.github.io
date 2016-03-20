@@ -6,6 +6,7 @@ title: HTA Attack The Social-Engineer Toolkit (SET) v6.5 di KALI LINUX
 categories: kali
 tags: [kali, linux, metasploit, penetration, security]
 ads: true
+youtubeId: iR53zf9weO8
 image:
   feature: 
   teaser: kali_linux_wallpaper_by_lukazoid-d800c86.png
@@ -59,7 +60,7 @@ Oke.. pastikan versi SET nya udah 6.5 atau yang terbaru...(punya saya 6.5.2 runn
 
 
 
-masuk ke terminal console pastikan aktif direktorinya di home contoh di `/root ` cek pake perintah `pwd` download [ SET Toolkit](https://www.trustedsec.com/social-engineer-toolkit/)
+masuk ke terminal console pastikan aktif direktorinya di home contoh di `/root` cek pake perintah `pwd` download [ SET Toolkit](https://www.trustedsec.com/social-engineer-toolkit/)
 
 
 
@@ -98,19 +99,17 @@ akan ada persetujuan tekan tombol Y untuk setuju,
 
 pastikan versi SET Toolkit nya sudah 6.5 !. Ikuti Step by Step langkah dibawah ini:
 
-pilih **1) `Social-Engineering Attacks`
-**
+pilih **1) `Social-Engineering Attacks`**
 
-[![](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082516_zpsyfacbh0g.png)](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082516_zpsyfacbh0g.png)pilih **2) `Website Attack Vector`
-**
+[![](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082516_zpsyfacbh0g.png)](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082516_zpsyfacbh0g.png)pilih **2) `Website Attack Vector`**
 
 [![](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082531_zpsgzw7benq.png)](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082531_zpsgzw7benq.png)
 
-pilih **8) `HTA Attack Method` **lalu masukan IP address kita (192.168.1.17) kemudian isi port (kosongkan saja untuk defaultnya 443) dan pilih jenis serangan Meterpreter, dalam tutorial ini saya pakai `https` (3) kalo anda mencoba yang lain tidak apa-apa.
+pilih **8) `HTA Attack Method`** lalu masukan IP address kita (192.168.1.17) kemudian isi port (kosongkan saja untuk defaultnya 443) dan pilih jenis serangan Meterpreter, dalam tutorial ini saya pakai `https` (3) kalo anda mencoba yang lain tidak apa-apa.
 
 [![](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082615_zpsc2fnmch7.png)](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082615_zpsc2fnmch7.png)
 
-pilih **2) `Site Cloner ` **untuk mencloning Situs https://twitter.com , pilihan ini untuk mencloning situs yang sudah ada.
+pilih **2) `Site Cloner `** untuk mencloning Situs https://twitter.com , pilihan ini untuk mencloning situs yang sudah ada.
 
 [![](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082616_zpsk514ekjr.png)](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082616_zpsk514ekjr.png)
 
@@ -131,11 +130,11 @@ Jrenggg,,, setelah itu kita tinggal meremote target.
 
 [![](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082851_zps8rnhefqg.png)](http://i713.photobucket.com/albums/ww134/upamisterlobal/Screenshot%20from%202015-08-15%20082851_zps8rnhefqg.png)
 
-Kalo anda masih bingung cara kerjanya silahkan tonton videonya dibawah ini
+Kalau anda masih bingung cara kerjanya silahkan tonton video dibawah ini.
 
 
 
-
+{% include youtube.html id=page.youtubeId %}
 
 
 

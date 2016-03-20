@@ -7,6 +7,7 @@ title: Mengganti Theme Eclipse
 categories: artikel
 tags: [artikel, mvc]
 ads: true
+youtubeId : 9YIKXU5vdgE
 ---
 
 Pada tutorial kali ini kita akan mengganti thema eclipse tapi sebelum itu, berikut tool yang saya gunakan
@@ -86,3 +87,7 @@ berikut fiturnya
 ![](http://i713.photobucket.com/albums/ww134/upamisterlobal/2_zpsailir2za.png)
 
 ![](http://i713.photobucket.com/albums/ww134/upamisterlobal/3_zpspajhrc2r.png)
+
+Lihat Videonya di bawah ini:
+
+{% include youtube.html id=page.youtubeId %}
