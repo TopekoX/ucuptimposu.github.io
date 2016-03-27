@@ -140,8 +140,7 @@ public class DemoArray {
 		nilai[8] = 32;
 		nilai[9] = 13;
 
-    //menggunakan foreach
-		for(int i : nilai){
+		for(int i : nilai){  //menggunakan foreach
 			System.out.println(i);
 		}
   }
