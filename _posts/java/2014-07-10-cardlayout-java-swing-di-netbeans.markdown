@@ -16,10 +16,11 @@ Kali ini sy mau kenalin salah satu layout yang ada di java Swing.. namanya _Car
 
 ![image002](http://i65.tinypic.com/173hab.jpg)
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 
 Karena kali ini sy agak malas nulisnya nih sy bagiin Videonya aja
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVHyp_fXdko" frameborder="0" allowfullscreen></iframe>
 
 Udah  dulu yah :p

@@ -55,6 +55,7 @@ private Date tanggalLahir;
 private String alamat;
 }
 ```
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 sekarang kita buat metode getter dan setternya. masuk ke menu :
 
@@ -226,6 +227,7 @@ return hash;
 }
 }
 ```
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 Fungsi dari equals itu digunakan untuk membandingkan apakah dua buat objek sama, jadi sebenarnya
 

@@ -17,7 +17,9 @@ Pada tutorial ini kita akan belajar bagaimana berinteraksi antar activity (scree
 
 #  Buat Project
 
-Bisa lihat [disini step nya](/blog/2016/01/24/membuat-aplikasi-android-hello-world/)
+Bisa lihat [disini step nya](/membuat-aplikasi-android-hello-world/)
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 #  Buat file layout XML
 
@@ -33,14 +35,14 @@ file `main1.xml`
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" 
+    android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
 
     <TextView
         android:id="@+id/text"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" 
+        android:layout_height="wrap_content"
         android:text="Ini adalah Layout 1"/>
 
     <Button
@@ -70,13 +72,15 @@ file `main2.xml`
 </LinearLayout>
 ```
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>	
+
 # Membuat Activities
 
 Untuk berhubungan antar layout activity gunakan:
 
 ```java
 Intent intent = new Intent(context, anotherActivity.class);
-startActivity(intent); 
+startActivity(intent);
 ```
 
 Buat 2 class Activities
@@ -184,10 +188,8 @@ Running Aplikasi
 * App2 / Main2 layout
 
 ![](http://i66.tinypic.com/1j9477.jpg)
- 
+
 
 ### Referensi
 
 * [Android Developer](http://developer.android.com/guide/topics/fundamentals/activities.html)
-
-

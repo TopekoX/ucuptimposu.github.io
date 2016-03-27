@@ -26,6 +26,8 @@ _Terus Solusinya gmana donk..????_
 
 Untuk mengatasi hal di atas.. Jeng..jeng.. jeng... dibuat lah builder yang namanya Apache Maven, selain Maven ada builder lain yang kita kenal dalam java tapi saya cuma akan bahas Maven (Soalnya yang lain belum pernah saya pelajari :p ). Kelebihan Maven Apa? Ok kita akan bahas..
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
+
 **Kelebihan Menggunakan Maven**
 
 
@@ -79,6 +81,7 @@ jika output keluar seperti di bawah ini berarti mvn sudah berhasi terinstall
     OS name: "linux", version: "3.18.7-200.fc21.x86_64", arch: "amd64", family: "unix"
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 **MEMBUAT PROJECT**
 

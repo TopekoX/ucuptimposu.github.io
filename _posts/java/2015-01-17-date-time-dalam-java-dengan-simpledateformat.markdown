@@ -36,6 +36,7 @@ Maka akan keluar output sbb:
     Sat Jan 17 14:38:09 PST 2015
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 Agar format tanggal yang dihasilkan sesuai dengan yang kita inginkan maka kita harus mengganti formatnya. Cara yang paling mudah adalah menggunakan   _SimpleDateFormat_
 
@@ -65,3 +66,5 @@ output nya
 
 
 Sesuaikan format tanggal yang di inginkan :)
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>

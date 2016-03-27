@@ -12,11 +12,27 @@ image:
   teaser: java.jpg
 ---
 
-Kita sudah masuk ke materi OOP, di dalam java kita memperlakukan class sebagai objek, class tersebut kita bisa gunakan di class lain dengan melakukan _Inheritance. _Dibawah ini adalah contoh membuat class yang di _Inheritance _:<!-- more -->
+## Objek dalam Java
+
+Setiap objek pasti memiliki perilaku dan sifat misalnya objek misalnya kursi, sepeda, penanda, bolpoin, meja, mobil dll.
+
+Sebuah objek dalam Java memiliki tiga karakteristik:
+
+* state : mewakili data (nilai) dari sebuah objek.
+* behavior / perilaku: mewakili perilaku (fungsi) dari sebuah objek seperti membosankan, menarik dll
+* identity / identitas: Identitas Obyek biasanya dilaksanakan melalui ID unik. Tapi, itu digunakan secara internal oleh JVM untuk mengidentifikasi setiap objek unik.
+
+Contoh: Messi adalah objek. Namanya Lionel Messi , kulitnya putih, hal tersebut yang dikenal sebagai state. Messi adalah pemain sepak bola , sehingga bermain sepak bola adalah perilakunya.
+
+Objek merupakan instance dari kelas. Class adalah template  yang objek diciptakan. Jadi objek adalah instance (hasil) dari sebuah class.
+
+## Contoh sederhana
+
+Kita sudah masuk ke contoh OOP, di dalam java kita memperlakukan class sebagai objek, class tersebut kita bisa gunakan di class lain dengan melakukan _Inheritance._ Dibawah ini adalah contoh membuat class yang di _Inheritance _ :
 
 
 
-``` java 
+``` java
 class A{
       public int a;
       public String b;
@@ -25,11 +41,11 @@ class A{
 
 
 
-kemudian kita  buat/panggil objek nya di class lain_ _
+kemudian kita  buat/panggil objek nya di class lain
 
 
 
-``` java 
+``` java
 public class B {
       public static void main(String[] args){
 
@@ -53,19 +69,18 @@ output
 
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 
 Dari apa yang kita lihat diatas berarti kita dapat memanipulasi data yang ada dalam objek class A setelah kitabuat objeknya `new A();` . Class berdua di atas dapat kita gabung menjadi 1 file dengan nama B.java
 
 
-``` java 
+``` java
 class A{
       public int a;
       public String b;
 }
-```
 
-``` java 
 public class B {
       public static void main(String[] args){
 
@@ -78,6 +93,37 @@ public class B {
 }
 ````
 
-
-
 output yang dihasilkan sama.
+
+Terus apa jadinya kalau properti `String b` kita tidak masukan nilai?
+
+
+``` java
+class A{
+      public int a;
+      public String b;
+}
+
+public class B {
+      public static void main(String[] args){
+
+        A obj = new A(); // membuat objek class A dengan nama obj
+        obj.a=10; //isi nilai variabel a dan kita tidak mengisi nilai variabel b
+        System.out.println("Nilai a " + obj.a);
+        System.out.println("Nilai b " + obj.b);
+      }
+}
+````
+
+output
+
+```
+Nilai a 10
+Nilai b null
+```
+
+nilai `b` akan bernilai `null` karena kita belum memasukan nilai apapun kedalamnya.
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>	
+
+## Method

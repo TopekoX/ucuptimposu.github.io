@@ -43,6 +43,8 @@ Pada tutorial kali ini kita akan mulai belajar tentang Pemrograman Android. Sebe
 
 Untuk cara install bisa lihat [di sini](/blog/2015/09/07/install-java-development-kit/) atau tanya aja om [google](http://google.com).
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
+
 ## 2. Install Android Studio
 
 Download [Android Studio](http://developer.android.com/sdk/index.html), untuk cara installnya berbeda di setiap Sistem Operasi, untuk petunjuk instalasi di OS yang anda pakai bisa dilihat [di sini](http://developer.android.com/sdk/installing/index.html?pkg=studio).
@@ -140,6 +142,8 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 
 ## 7. Running

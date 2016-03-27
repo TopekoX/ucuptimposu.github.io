@@ -35,6 +35,7 @@ Operator aritmatika digunakan untuk melakukan perhitungan matematika. Sebagai co
 
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ### Operator Relasi
 
@@ -52,6 +53,7 @@ Operator relasi hanya akan menghasilkan nilai boolean true atau false. Sebagai 
 | <=	| lebih kecil	| a <= b menghasilkan true |
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ### Operator Logika
 

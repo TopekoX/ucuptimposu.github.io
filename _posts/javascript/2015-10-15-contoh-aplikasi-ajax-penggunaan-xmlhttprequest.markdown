@@ -24,6 +24,8 @@ Nah.. objek XMLHttpRequest ini bekerja untuk melakukan pertukaran data dengan se
 
 AJAX biasanya disisipkan dalam tag Javascript, karena sesuai namanya AJAX adalah Javasript, atau bisa dibuat di file yang berbeda kemudian di load. Semua jenis browser modern (Chrome, Firefox, Internet Explorer 7+, Safari dan Opera) mendukung XMLHttpRequest.
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
+
 
 Cara membuat objek XMLHttpRequest :
 
@@ -89,6 +91,7 @@ Buat file html yang akan meload file text di atas  dengan AJAX .. dengan kode
 
 Kebetulan pada tutorial ini  kedua file di atas saya simpan di folder yang sama pada folder server apache.
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 
 Sebaiknya ketika menjalankan aplikasi AJAX  dijalankan di  dalam server.. contoh server apache, tomcat dll.

@@ -8,7 +8,7 @@ categories: mongodb
 tags: [mongodb, database]
 ads: true
 image:
-  feature: 
+  feature:
   teaser:  mongo.jpg
 ---
 
@@ -22,6 +22,8 @@ image:
  * Dapat dengan mudah berinteraksi dengan bahasa pemrograman apapun karena data yang diproses hanya berupa collection.
 
 Di dalam MongoDB database adalah tempat menyimpan collection, jadi datanya disimpan dalam bentuk collection. Di dalam mysql collection ini sepadan dengan table.
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ### MongoDB vs RDBMS
 Perbedaan MongoDB dan RDBMS

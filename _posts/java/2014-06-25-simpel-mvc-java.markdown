@@ -80,6 +80,7 @@ buat setter dan getter nya ..di bag. sourcenya
     }
 ```
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 
 fungsinya agar bisa di akses kelas luar entar sama controller nya..
@@ -160,6 +161,7 @@ kita akan mengirim objek Form yang ada di view ke controller ini melalui paramet
 
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 
   1. Kembali ke Form tadi, pada bagian view.. di sinilah kita mengirim objek ke controller tadi buat Objek dari Controller

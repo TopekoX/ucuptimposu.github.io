@@ -54,6 +54,7 @@ sebagai contoh nama paket jdk nya jdk-8u5-linux-xxx.rpm ada di direktori /opt
 
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ### 4. Install path java lokasi Java
 
@@ -108,6 +109,7 @@ Agar dikenal di sistem kita pasang link path nya.
 
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 
 ### 6. Tukar link path OpenJDK ke JDK

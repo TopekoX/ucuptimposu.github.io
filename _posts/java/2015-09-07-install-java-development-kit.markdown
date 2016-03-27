@@ -28,6 +28,7 @@ Untuk membuat program Java dibutuhkan setidaknya perangkat lunak diantaranya
 Di dalam JDK sudah terdapat JRE jadi kalo mau membuat program kita cukup mendownload JDK.<!-- more -->
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 # Download
 
@@ -66,6 +67,7 @@ Pastikan JDK sudah terinstall :
 
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 # Setting di Linux, UNIX, Solaris, FreeBSD:
 

@@ -30,6 +30,7 @@ Contoh web yang menggunakan AJAX: Google Maps, Gmail, YouTube, dan Facebook.
 Cara kerja AJAX. Sumber gambar [disini](http://www.w3schools.com/ajax)
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ### Basis AJAX
 
@@ -70,7 +71,7 @@ AJAX memberikan suatu metode untuk mempercepat proses load data tanpa melakukan 
 
 [Contoh menggunakan kode ajax](/contoh-aplikasi-ajax-penggunaan-xmlhttprequest/)
 
-
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ### Referensi
 

@@ -48,6 +48,7 @@ char i = '\u003F'; // outputnya "?"
 tentu anda bertanya kenapa output dari variabel char i  hasilnya ? .. karena char memang untuk memproses data _unicode_ berupa karakter dan kode `u003F` adalah kode _unicode_ dari karakter `?` dan tanda `\` di dalam java adalah penanda bahwa kode (dibelakangnya) tersebut adalah karakter (`char`). Untuk melihat karakter _unicode_ lainnya bisa disearch di google, salah satunya bisa kita lihat di [http://www.utf8-chartable.de/](http://www.utf8-chartable.de/).
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 #### Wrapper Class
 
@@ -71,3 +72,5 @@ int e = Integer.parseInteger("100");
 
 
   * [https://en.wikipedia.org/wiki/Primitive_wrapper_class](https://en.wikipedia.org/wiki/Primitive_wrapper_class)
+
+  <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>

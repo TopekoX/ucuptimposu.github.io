@@ -34,7 +34,6 @@ public class NamaKelas { }
 
   * **Object** : Object adalah instansiasi dari class. Kalau dianalogikan class adalah sebuah cetakan dan object adalah materi hasil cetakan dari class. Setiap object akan mempunyai state (instance variabel/properties) yang membedakan satu object dengan object lain, kemudian object juga mempunyai behaviour (method) dimana logic dari class disimpan.
 
-<!-- more -->
 
   * **Method** : Method adalah sekumpulan kode yang diberi nama, untuk merujuk ke sekumpulan kode tersebut digunakan sebuah nama yang disebut dengan nama method. Method bisa mempunyai parameter sebagai input dan nilai kembalian sebagai output.
 
@@ -55,6 +54,7 @@ void namaMethod(){}
 Memang untuk pemula terkadang membingunkan tapi nantinya anda akan memahami sendiri seiring dengan seringnya anda membuat program java.
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ## Halo Dunia
 
@@ -98,6 +98,7 @@ public class Halo{
 
 
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ## Aturan dalam java
 
