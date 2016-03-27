@@ -4,12 +4,12 @@ date: 2015-10-15 13:43:33+00:00
 layout: article
 slug: contoh-aplikasi-ajax-penggunaan-xmlhttprequest
 title: Contoh Aplikasi AJAX ( Penggunaan XMLHttpRequest)
-categories: artikel
+categories: javascript
 tags: [artikel, ajax, javascript]
 ads: true
 ---
 
-Setelah sedikit mengenal [apa itu AJAX ](/blog/2015/10/14/apa-itu-ajax/)di articleingan ini saya akan memberikan tutorial bagaimana AJAX meload file tanpa melakukan refresh page. Di dalam AJAX kata kuncinya adalah objek XMLHttpRequest. Semua jenis browser modern saat ini mendukung XMLHttpRequest, kecuali browser jadul IE5 dan IE6 (itupun kalo masih ada yang pake).
+Setelah sedikit mengenal [apa itu AJAX ](/apa-itu-ajax/)di articleingan ini saya akan memberikan tutorial bagaimana AJAX meload file tanpa melakukan refresh page. Di dalam AJAX kata kuncinya adalah objek XMLHttpRequest. Semua jenis browser modern saat ini mendukung XMLHttpRequest, kecuali browser jadul IE5 dan IE6 (itupun kalo masih ada yang pake).
 
 <!-- more -->
 
@@ -26,10 +26,16 @@ AJAX biasanya disisipkan dalam tag Javascript, karena sesuai namanya AJAX adalah
 
 
 Cara membuat objek XMLHttpRequest :
-`var http = new XMLHttpRequest();`
+
+```javascript
+var http = new XMLHttpRequest();
+```
 
 Untuk browser jadul Internet Explorer 5 dan 6 pake ActiveXObject
-`var http = new ActiveXObject("Microsoft.XMLHTTP");`
+
+```javascript
+var http = new ActiveXObject("Microsoft.XMLHTTP");
+```
 
 buat file txt dengan nama _file.txt_, saya tulis dengan kalimat dibawah ini
 
@@ -43,7 +49,7 @@ Buat file html yang akan meload file text di atas  dengan AJAX .. dengan kode
 
 
 
-``` html
+```html
 <!DOCTYPE html>
     <html lang="en">
     <head>

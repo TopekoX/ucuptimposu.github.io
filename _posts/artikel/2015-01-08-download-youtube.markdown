@@ -4,8 +4,8 @@ comments: true
 date: 2015-01-08 09:15:22+00:00
 layout: article
 slug: download-youtube
-title: Download video Youtube tanpa Software]
-categories:categories: artikel
+title: Download video Youtube tanpa Software
+categories: artikel
 tags: [artikel, youtube]
 ads: true
 ---

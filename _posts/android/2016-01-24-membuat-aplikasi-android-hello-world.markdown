@@ -20,12 +20,12 @@ Pada tutorial kali ini kita akan mulai belajar tentang Pemrograman Android. Sebe
 
 {% include toc.html %}
 
-## Tools Yang dibutuhkan 
+## Tools Yang dibutuhkan
 
 * [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/) 1.7 atau yang lebih tinggi.
 * [Android Studio](http://developer.android.com/sdk/index.html) : IDE yang digunakan untuk membuat aplikasi Android
 * SDK : Sekumpulan library yang digunakan untuk membuat aplikasi android
-* AVD : Emulator 
+* AVD : Emulator
 
 <!-- more -->
 
@@ -51,11 +51,11 @@ Jika anda menggunakan Windows download Android Studio yang versi bundle, karena 
 
 ## 3. Install Android SDK
 
-Untuk yang pakai Windows dan sudah menggunakan Android Sudio versi bundle SDK nya sudah include. 
+Untuk yang pakai Windows dan sudah menggunakan Android Sudio versi bundle SDK nya sudah include.
 
-Download [Android SDK](http://developer.android.com/sdk/index.html), extract filenya. 
+Download [Android SDK](http://developer.android.com/sdk/index.html), extract filenya.
 
-File SDK berada dalam direktori `tools/`, eksekusi file `android` untuk melihat SDK yang ada. 
+File SDK berada dalam direktori `tools/`, eksekusi file `android` untuk melihat SDK yang ada.
 
 Untuk selengkapnya lihat [di sini](http://developer.android.com/sdk/installing/adding-packages.html).
 
@@ -70,7 +70,7 @@ Buka aplikasi Android Studio, pilih _Start a new Android Studio Project_
 
 ![](http://i65.tinypic.com/1089yzk.jpg)
 
-Pilih minimum SDK atau versi android yang dingikan disini saya memilih versi android 4.0 ICS spesifikasi minimum aplikasi saya 
+Pilih minimum SDK atau versi android yang dingikan disini saya memilih versi android 4.0 ICS spesifikasi minimum aplikasi saya
 
 ![](http://i63.tinypic.com/34et0rm.jpg)
 
@@ -99,7 +99,7 @@ Untuk mengujinya klik tombol ![](http://developer.android.com/images/tools/as-ru
 
 ![](http://i63.tinypic.com/2z5ke3a.jpg "Running")
 
-## 6 Coding
+## 6. Coding
 
 Secara default Android Studio sudah membuat coding aplikasi Hello World.. kita bisa lihat pada file __activity_main.xml__ yang ada di direktori __layout__.
 
@@ -148,9 +148,6 @@ Running aplikasi dengan menekan tombol __Run App__ atau dengan menekan tombol `S
 
 ![](http://i68.tinypic.com/1zei2vd.jpg)
 
-### Referensi 
+### Referensi
 
 [http://developer.android.com/index.html](http://developer.android.com/index.html)
-
-
-

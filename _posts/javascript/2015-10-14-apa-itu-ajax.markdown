@@ -5,7 +5,7 @@ layout: article
 slug: apa-itu-ajax
 title: Apa itu AJAX ?
 wordpress_id: 1332
-categories: artikel
+categories: javascript
 tags: [artikel, ajax, javascript]
 ads: true
 ---
@@ -25,7 +25,7 @@ Contoh web yang menggunakan AJAX: Google Maps, Gmail, YouTube, dan Facebook.
 
 
 
-![(http://www.w3schools.com/ajax/ajax.gif)](http://www.w3schools.com/ajax/ajax.gif) 
+![(http://www.w3schools.com/ajax/ajax.gif)](http://www.w3schools.com/ajax/ajax.gif)
 
 Cara kerja AJAX. Sumber gambar [disini](http://www.w3schools.com/ajax)
 
@@ -68,7 +68,7 @@ AJAX memberikan suatu metode untuk mempercepat proses load data tanpa melakukan 
 
 
 
-[Contoh menggunakan kode ajax](http://timposu.com/contoh-aplikasi-ajax-penggunaan-xmlhttprequest/)
+[Contoh menggunakan kode ajax](/contoh-aplikasi-ajax-penggunaan-xmlhttprequest/)
 
 
 

@@ -15,7 +15,7 @@ image:
 Untuk membuat program Java dibutuhkan setidaknya perangkat lunak diantaranya
 
 
-  1. Java Development Kit (JDK) merupakan perangkat lunak yang digunakan untuk melakukan _compile _dari kode java menjadi _bytecode _yang dapat di jalankan oleh Java Runtime Environtment.
+  1. Java Development Kit (JDK) merupakan perangkat lunak yang digunakan untuk melakukan _compile_ dari kode java menjadi _bytecode_ yang dapat di jalankan oleh Java Runtime Environtment.
 
 
   2. Java Runtime Environtment (JRE) merupakan perangkat lunak yang digunakan untuk menjalanka program yang dibuat dengan Java
@@ -61,7 +61,7 @@ Pastikan JDK sudah terinstall :
   * Klik **'Environment variables'** di dalam tab **'Advanced'**.
 
 
-  * Didalam kolom tabel cari nama baris **'Path'**  lalu tambahkan lokasi Path JDK ingat TAMBAHKAN bukan diganti . Contoh variabel yang ada _'C:\WINDOWS\SYSTEM32'_, tambahkan path JDK sehingga menjadi _'C:\WINDOWS\SYSTEM32;c:\Program Files\java\jdk1.8.xxx\bin'_.
+  * Didalam kolom tabel cari nama baris **'Path'**  lalu tambahkan lokasi Path JDK ingat TAMBAHKAN bukan diganti, karena akan menghapus Path yang terlebih dahulu terpasang. Contoh variabel yang ada _'C:\WINDOWS\SYSTEM32'_, tambahkan path JDK sehingga menjadi _'C:\WINDOWS\SYSTEM32;c:\Program Files\java\jdk1.8.xxx\bin'_.
 
 
 
@@ -71,7 +71,7 @@ Pastikan JDK sudah terinstall :
 
 
 
-Sebenarnya saya tidak perlu memberi tahu cara setting Environment variable PATH di sistem Unix dkk, karena anak-anak Unix/Linux dkk, ini biasanya suka ngotak atik sistem unix , bids di bilsng pintar-pintar lah #eaaaa, tapi secara garis besar nya aja cara setting Path : Contoh path Java kita di **/opt/jdkxxxx/bin**. Tinggal di tambahkan aja kedalam file _.bashrc _tambahkan ke baris paling bawah _'.bashrc: export PATH=/path/to/java:$PATH'._
+Sebenarnya saya tidak perlu memberi tahu cara setting Environment variable PATH di sistem Unix dkk, karena anak-anak Unix/Linux dkk, ini biasanya suka ngotak atik sistem unix , bids di bilsng pintar-pintar lah #eaaaa, tapi secara garis besar nya aja cara setting Path : Contoh path Java kita di **/opt/jdkxxxx/bin**. Tinggal di tambahkan aja kedalam file _.bashrc_ tambahkan ke baris paling bawah _'.bashrc: export PATH=/path/to/java:$PATH'._
 
 
 

@@ -6,12 +6,12 @@ layout: article
 slug: xdman-download-manager-idm-nya-linux
 title: XDMAN Download Manager IDM nya Linux
 wordpress_id: 820
-categories:
-- Tips & Trik
-tags:
-- Download
-- Download Manager
-- Linux
+categories: linux
+tags: linux
+ads: true
+image:
+  feature:
+  teaser: leds_photo.jpg
 ---
 
 Ada banyak aplikasi download manager di Linux.. tidak usah sy sebutkan satu persatu .. tapi bagi anda yang ingin tampilan dan perfomanya kaya IDM yang ada di windows.. anda wajib menggunakan XDMAN (Xtreme Download Manager) ..

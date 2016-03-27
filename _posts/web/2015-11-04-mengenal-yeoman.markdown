@@ -5,9 +5,12 @@ layout: article
 slug: mengenal-yeoman
 title: Mengenal Yeoman !
 wordpress_id: 1363
-categories: artikel
-tags: [artikel, yeoman, ajax, javascript]
+categories: frontend
+tags: [yeoman, ajax, javascript]
 ads: true
+image:
+  feature:
+  teaser: yeoman.png
 ---
 
 ![](http://i66.tinypic.com/2ytw4g2.jpg)
@@ -43,7 +46,9 @@ Alur kerja _(Workflow)_ Yeoman terdiri dari tiga tools utama untuk meningkatkan 
 
 Masing-masing projet tools diatas dikelola oleh komunitas masing-masing, tapi bekerja sama dengan baik sesuai alur kerja untuk menjaga project Yeoman tetap efektif untuk digunakan. Berikut alur binary Yeoman
 
-[![Alur Yeoman](https://camo.githubusercontent.com/b3665911e14793c7141619f3b6be380f8b92e61d/687474703a2f2f79656f6d616e2e696f2f7374617469632f776f726b666c6f772e356364653834653363302e6a7067)](https://camo.githubusercontent.com/b3665911e14793c7141619f3b6be380f8b92e61d/687474703a2f2f79656f6d616e2e696f2f7374617469632f776f726b666c6f772e356364653834653363302e6a7067)
+![Alur Yeoman](http://slicejack.com/shared/content/uploads/2015/01/workflow.c3cc.jpg)
+
+sumber gambar [disini](http://slicejack.com/)
 
 
 

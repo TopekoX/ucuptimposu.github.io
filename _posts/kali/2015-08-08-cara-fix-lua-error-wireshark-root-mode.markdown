@@ -2,7 +2,7 @@
 comments: true
 date: 2015-08-08 03:15:29+00:00
 layout: article
-title: 'Cara Fix lua error: Wireshark root mode'
+title: 'Cara Fix lua error: Wireshark mode root'
 categories: kali
 tags: [fedora, linux, ubuntu]
 ads: true
