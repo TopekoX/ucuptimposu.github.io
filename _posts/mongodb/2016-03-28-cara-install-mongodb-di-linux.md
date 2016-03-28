@@ -4,11 +4,12 @@ title: MongoDB - Cara Install MongoDB Di Linux
 modified:
 categories: mongodb
 excerpt:
-tags: []
+tags: [database, mongodb]
 comments: true
+ads: true
 image:
   feature:
-  teaser:
+  teaser: mongo.jpg
   thumb:
 date: 2016-03-28T23:44:40+08:00
 ---

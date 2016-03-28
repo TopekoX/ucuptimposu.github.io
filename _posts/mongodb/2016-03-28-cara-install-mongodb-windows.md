@@ -4,11 +4,12 @@ title: MongoDB - Cara Install MongoDB di Windows
 modified:
 categories: mongodb
 excerpt:
-tags: []
+tags: [mongodb, database]
 comments: true
+ads: true
 image:
   feature:
-  teaser:
+  teaser: mongo.jpg
   thumb:
 date: 2016-03-28T20:36:26+08:00
 ---

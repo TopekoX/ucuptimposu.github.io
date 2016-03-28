@@ -5,6 +5,8 @@ modified:
 categories: mongodb
 excerpt:
 tags: [database, mongodb]
+comments: true
+ads: true
 image:
   feature:
   teaser: mongo.jpg
