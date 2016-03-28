@@ -9,7 +9,7 @@ tags: [artikel, ajax, javascript]
 ads: true
 ---
 
-Setelah sedikit mengenal [apa itu AJAX ](/apa-itu-ajax/)di articleingan ini saya akan memberikan tutorial bagaimana AJAX meload file tanpa melakukan refresh page. Di dalam AJAX kata kuncinya adalah objek XMLHttpRequest. Semua jenis browser modern saat ini mendukung XMLHttpRequest, kecuali browser jadul IE5 dan IE6 (itupun kalo masih ada yang pake).
+Setelah sedikit mengenal [apa itu AJAX ](/apa-itu-ajax/), di artikel ini saya akan memberikan tutorial bagaimana AJAX meload file tanpa melakukan refresh page. Di dalam AJAX kata kuncinya adalah objek XMLHttpRequest. Semua jenis browser modern saat ini mendukung XMLHttpRequest, kecuali browser jadul IE5 dan IE6 (itupun kalo masih ada yang pake).
 
 <!-- more -->
 

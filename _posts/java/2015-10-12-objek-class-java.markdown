@@ -14,7 +14,7 @@ image:
 
 ## Objek dalam Java
 
-Setiap objek pasti memiliki perilaku dan sifat misalnya objek misalnya kursi, sepeda, penanda, bolpoin, meja, mobil dll.
+Setiap objek pasti memiliki perilaku dan sifat misalnya objek kursi, sepeda, penanda, bolpoin, meja, mobil dll.
 
 Sebuah objek dalam Java memiliki tiga karakteristik:
 
@@ -124,6 +124,6 @@ Nilai b null
 
 nilai `b` akan bernilai `null` karena kita belum memasukan nilai apapun kedalamnya.
 
-<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>	
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ## Method

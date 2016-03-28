@@ -8,7 +8,7 @@ tags: [kali, linux, metasploit, penetration, security]
 ads: true
 youtubeId: iR53zf9weO8
 image:
-  feature: 
+  feature:
   teaser: kali_linux_wallpaper_by_lukazoid-d800c86.png
 ---
 
@@ -140,4 +140,5 @@ Kalau anda masih bingung cara kerjanya silahkan tonton video dibawah ini.
 
 
 
-> PERHATIAN : BIJAKLAH MENGGUNAKAN TUTORIAL INI !!! KAMI TIDAK BERTANGGUNG JAWAB TERHADAP PENYALAHGUNAAN TUTORIAL INI!! TUJUAN TUTORIAL INI DIBUAT UNTUK PEMBELAJARAN SEMATA!!! 
+**PERHATIAN :** BIJAKLAH MENGGUNAKAN TUTORIAL INI !!! KAMI TIDAK BERTANGGUNG JAWAB TERHADAP PENYALAHGUNAAN TUTORIAL INI!! TUJUAN TUTORIAL INI DIBUAT UNTUK PEMBELAJARAN SEMATA!!!
+{: .notice-danger}

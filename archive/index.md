@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: Blog
+title: Archive
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: "Daftar Artikel Blog"
+excerpt: "Daftar Semua Artikel"
 tags: []
 image:
   feature:

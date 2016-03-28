@@ -42,7 +42,7 @@ locales:
 # Indonesian translation
   # -------------------
   id: &DEFAULT_ID
-    overview: "Overview"
+    overview: "Daftar Isi"
     toc: "Artikel Terbaru"
     written_by: "Written by"
     updated: "Updated"
