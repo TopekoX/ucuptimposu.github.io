@@ -48,22 +48,22 @@ STEP 4 Binary MongoDB ada di direktori MongoDB `bin/`. Tambahkan lokasi folder t
 export PATH=/opt/mongodb/bin:$PATH
 ```
 
-
-
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 ## Membuat folder data
 
-STEP 1: MongoDB membutuhkan direktori data untuk menyimpan database, buatlah direktori dengan nama dan lokasi `/data/db`
+MongoDB membutuhkan direktori data untuk menyimpan database, buatlah direktori dengan nama dan lokasi `/data/db`
 
 ```
 mkdir -p /data/db
 ```
 
-STEP 2: Setting permission direktori mongoDB atau direktori data yang telah kita buat agar bisa di read write.
+Setting permission direktori mongoDB atau direktori data yang telah kita buat agar bisa di read write.
 
 
-STEP 3: Jalankan daemon/service server MongoDB dengan perintah
+## Menjalankan Service MongoDB
+
+Jalankan daemon/service server MongoDB dengan perintah
 
 ```
 mongod
