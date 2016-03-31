@@ -22,7 +22,18 @@ image:
 * [Install MongoDB di Linux](/cara-install-mongodb-di-linux/)
 * [Perintah Dasar MongoDB](/perintah-dasar-mongodb/)
 
+{% include iklan-box.html %}
+
 ## 2. Database
 
 * [Membuat Database](/membuat-database-mongodb/)
 * [Menghapus Database](/menghapus-database-mongodb/)
+* [Membuat Collection](/membuat-collection-mongodb/)
+* [Menghapus Collection](/menghapus-collection-mongodb/)
+* [Tipe Data MongoDB](/tipe-data-mongodb/)
+
+## 3. Document
+
+### Referensi
+* [https://docs.mongodb.org/](https://docs.mongodb.org/)
+* [http://java2s.com](http://java2s.com)
