@@ -23,3 +23,6 @@ image:
 * [Perintah Dasar MongoDB](/perintah-dasar-mongodb/)
 
 ## 2. Database
+
+* [Membuat Database](/membuat-database-mongodb/)
+* [Menghapus Database](/menghapus-database-mongodb/)
