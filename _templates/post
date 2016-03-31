@@ -6,7 +6,7 @@ categories: {{ dir }}
 excerpt:
 tags: []
 comments: true
-ads:
+ads: true
 image:
   feature:
   teaser:
