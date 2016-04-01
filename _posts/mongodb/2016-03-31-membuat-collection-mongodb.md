@@ -31,6 +31,8 @@ Adapun daftar field yang dapat digunakan pada `options`
 | size	     | number |
 | max     | 	number  |
 
+**Info :** Bisa dibilang kalau collection sama dengan table kalau dalam database RDBMS.
+{: .notice-info }
 
 {% include iklan-box.html %}
 
