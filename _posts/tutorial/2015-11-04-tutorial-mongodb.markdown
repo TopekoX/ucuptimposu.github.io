@@ -7,10 +7,10 @@ categories: tutorial
 tags: [mongodb, database]
 ads: true
 image:
-  feature: feature/mongodb.jpg
+  feature: feature/mongodb.png
   teaser:  mongo.jpg
-  credit: mongowithmahesh.in
-  creditlink: http://mongowithmahesh.in/
+  credit:
+  creditlink: 
 ---
 
 [MongoDB](https://www.mongodb.org/) termasuk dalam kategori database NOSQL , berbeda dengan database yang biasa kita kenal seperti MySQL, MS SQL Server, Oracle dll yang termasuk RDBMS. MongoDB dibuat dari C++ dan bersifat opensource. Gaya penulisan dokumen MongoDB seperti JSON sehingga membuat integrasi data dalam aplikasi lebih mudah dan lebih cepat.

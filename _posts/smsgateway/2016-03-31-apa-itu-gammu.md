@@ -41,3 +41,5 @@ Berikut bahan-bahan yang di perlukan untuk membangun server SMS Gateway dengan G
 * HP atau modemn yang di support Gammu (di tutorial web ini saya menggunakan modemn Wavecom M1306B)
 * SIM Card sama pulsanya
 * Database (MySQL, MariaDB, PostgreSQL atau SQLite)
+
+{% include iklan-box.html %}

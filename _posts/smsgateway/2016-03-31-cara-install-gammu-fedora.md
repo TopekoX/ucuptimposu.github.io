@@ -53,7 +53,7 @@ Isi konfig di sesuai bawah ini
 device = /dev/ttyUSB0
 connection = at115200
 ```
-Untuk jenis HP silahkan menggunakan `/dev/ttyACM0` pada devices contoh jenis hp sonyericsson jika anda menggunakan Usb modemn Huawei E220 atau Wavecom anda bisa menggantinya dengan  `/dev/ttyUSB0` atau `/dev/ttyUSB1` tergantung dimana devices anda dikenali oleh linux. Untuk connection bisa secara umum menggunakan koneksi `at115200` atau bisa dilihat pada [Gammu Phone Databases](http://wammu.eu/phones/)
+Untuk jenis HP silahkan menggunakan `/dev/ttyACM0` pada devices contoh jenis hp sonyericsson jika anda menggunakan Usb modem seperti Wavecom anda bisa menggantinya dengan  `/dev/ttyUSB0` atau `/dev/ttyUSB1` tergantung dimana devices anda dikenali oleh linux. Untuk connection bisa secara umum menggunakan koneksi `at115200` atau bisa dilihat pada [Gammu Phone Databases](http://wammu.eu/phones/)
 
 Bila Anda gunakan lebih dari satu HP, maka silahkan tambahkan konfigurasinya pada bagian bawahnya sama seperti cara di atas.
 
@@ -70,7 +70,7 @@ Bila Anda gunakan lebih dari satu HP, maka silahkan tambahkan konfigurasinya pad
 
 Cek Konfigurasi sudah Berhasil atau belum menggunakan `gammu identify`.
 
-Jika output seperti dibawah ini berarti konfigurasi berhasil dan Gammu berhasil terhubung dengan modemn/handphone, jika hasil error silahkan cek kembali konfigurasi anda belum sesuai atau modemn/hp anda tidak di support Gammu.
+Jika output seperti dibawah ini berarti konfigurasi berhasil dan Gammu berhasil terhubung dengan modem/handphone, jika hasil error silahkan cek kembali konfigurasi anda belum sesuai atau modem/hp anda tidak di support Gammu.
 
 ```
 ucup@timposu:~$ sudo gammu identify

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: SMS Gateway Mengirim SMS Dengan Gammu
+title: SMS Gateway - Mengirim SMS Dengan Gammu
 modified:
 categories: smsgateway
 excerpt:
