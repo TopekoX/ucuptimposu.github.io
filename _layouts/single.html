@@ -22,7 +22,6 @@
     <meta name="google-site-verification" content="dQXTvJ_MEbsENTWT8QoAA3j95UqDeTL6VRcAD5lMN5s" />
 
 
-    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
@@ -40,17 +39,26 @@
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
-  
+
+  <style media="screen">
+      .site-title img {
+      height: 60px;
+      margin-right: 10px;
+    }
+}
+  </style>
+
   </head>
 
   <body id="js-body">
     {% include browser-upgrade.html %}
-    {% include header.html %}
-    {% include navigation-sliding.html %}
-
-    <div id="page-wrapper">
+    <header id="masthead">
+      <div class="inner-wrap">
+        <a href="{{ site.url }}/" class="site-title"><img src="{{ site.url }}/images/logo-timposu.com.png"/><!--{{ site.title }}--></a>
+      </div><!-- /.inner-wrap -->
+    </header><!-- /.masthead -->
+     <div id="page-wrapper">
       {{ content }}
-      {% include footer.html %}
     </div>
 
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
