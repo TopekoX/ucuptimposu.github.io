@@ -14,6 +14,8 @@ image:
 date: 2016-03-30T23:55:00+08:00
 ---
 
+Ini adalah tutorial singkat MongoDB, yang berisi perintah-perintah dasar MongoDB
+
 ##  melihat database
 ```
 db
