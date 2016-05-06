@@ -3,7 +3,7 @@ comments: true
 date: 2015-10-12 15:09:19+00:00
 layout: article
 slug: objek-class-java
-title: Class dan Objek dalam Java
+title: Java OOP - Class dan Objek dalam Java
 categories: java
 tags: [java]
 ads: true

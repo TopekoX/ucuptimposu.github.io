@@ -3,7 +3,7 @@ layout: single
 title: Pencarian
 ---
 
-# Pencarian
+<h1 id="judulsearch">Pencarian</h1>
 <script>
   (function() {
     var cx = '009430999044503277387:js1g6nwsr9k';

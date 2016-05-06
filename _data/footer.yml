@@ -3,8 +3,14 @@
 - title: Home
   url: /
 
+- title: Archives
+  url: /archive/
+
+- title: Syarat & Ketentuan
+  url: /terms-and-condition/
+
+- title: Kebijakan Privasi
+  url: /privacy-policy/
+
 - title: About
   url: /about/
-  
-
-

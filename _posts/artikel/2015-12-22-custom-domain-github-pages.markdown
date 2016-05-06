@@ -5,7 +5,7 @@ date: 2015-12-22 10:59:38 +0800
 categories: artikel
 tags: [artikel, ajax, javascript]
 ads: true
-
+comments: true
 ---
 
 ![github pages](http://i68.tinypic.com/wtuo8g.jpg)

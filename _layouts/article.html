@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{% include menu-dropdown.html  %}
 <div id="main" role="main">
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 		{% if page.image.feature %}
@@ -35,7 +36,7 @@ layout: default
 					  {% endif %}
 					</div>
 				</footer><!-- /.footer -->
-			
+
 				{% assign hasSimilar = '' %}
 				{% for post in site.related_posts %}
 				    {% assign postHasSimilar = false %}
