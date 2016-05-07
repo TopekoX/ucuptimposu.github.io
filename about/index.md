@@ -1,15 +1,15 @@
 ---
-layout: article
+layout: page
 title: About
 date: 2016-03-14T23:23:51+08:00
 modified:
 excerpt:
-comments: true
+comments: false
 image:
   feature:
   teaser:
   thumb: photo-1441015401724-70d16b783f5c.jpg
-ads: true
+ads: false
 ---
 
 [Timposu.com](http://timposu.com) adalah tempat belajar tutorial pemrograman, linux dan artikel lainnya. Kami berusaha sebaik mungkin menyajikan tutorial/artikel yang bisa dimanfaatkan oleh anak-anak bangsa. Diharapkan Timposu.com dapat menjadi media belajar dan saling berbagi tentang seputar ilmu komputer.

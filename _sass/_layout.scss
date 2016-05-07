@@ -7,7 +7,7 @@
    ========================================================================== */
 
 #masthead {
-	padding: $gutter;
+	padding: 1.618em 1.618em 0.5em 1.618em;//$gutter;
 	z-index: 20;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
@@ -122,7 +122,7 @@
 
 .bottom-menu {
 	@include clearfix;
-	font-weight: 700;
+	font-weight: 600;
 	a {
 		color: lighten($black,60);
 	}
