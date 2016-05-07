@@ -8,5 +8,15 @@
     {% endif %}
     <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
   {% endfor %}-->
-	<li><a href="/search"><img src="{{ link.url }}/images/search-icon.svg" width="20" height="20" alt="Pencarian" /></a></li>
+	<li>
+		<div class="grid" id="searchBar">
+      <div id="searchBar">
+         <form role="search" method="get" action="{{site.baseurl}}/search/">
+             <input id="searchString" name="searchString"
+                    placeholder="Pencarian..." type="text">
+             <!--<button id="searchButton" name="googleSearchName" type="submit" value="Search"></button>-->
+         </form>
+     	</div>
+		</div>
+	</li>
 </ul>
