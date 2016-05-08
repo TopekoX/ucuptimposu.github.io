@@ -19,7 +19,7 @@ image:
 
 
 
-## 1. Intro MongoDB
+## Intro MongoDB
 
 * [Mengenal MongoDB](/mengenal-mongodb/)
 * [Install MongoDB di Windows](/cara-install-mongodb-windows/)
@@ -28,7 +28,7 @@ image:
 
 {% include iklan-box.html %}
 
-## 2. Database
+## Database
 
 * [Membuat Database](/membuat-database-mongodb/)
 * [Menghapus Database](/menghapus-database-mongodb/)
@@ -36,8 +36,17 @@ image:
 * [Menghapus Collection](/menghapus-collection-mongodb/)
 * [Tipe Data MongoDB](/tipe-data-mongodb/)
 
-## 3. Document
+## Document
 
-### Referensi
+* [Insert Record](/mongodb-insert-document/)
+* [Query](/mongodb-query/)
+* [Update Record](/mongodb-update-document/)
+* [Delete/Remove Record](/mongodb-delete/)
+* [Limit & Skip](/mongodb-menggunakan-limit-and-skip/)
+* [Sort/Mengurutkan](/mongodb-mengurutkan-sort-document-mongodb/)
+
+{% include iklan-box.html %}
+
+#### Referensi
 * [https://docs.mongodb.org/](https://docs.mongodb.org/)
 * [http://java2s.com](http://java2s.com)

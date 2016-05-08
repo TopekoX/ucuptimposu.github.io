@@ -12,7 +12,10 @@ image:
   teaser: mongo.jpg
   thumb:
 date: 2016-03-31T00:08:24+08:00
+series: "Tutorial MongoDB"
 ---
+
+{% include series.html %}
 
 Untuk create/membuat database di MongoDB menggunakan perintah `use database_name`, perintah tersebut akan membuat database baru jika belum ada dan bila sudah ada database tersebut maka akan digunakan kembali.
 

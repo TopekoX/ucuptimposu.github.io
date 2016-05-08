@@ -12,7 +12,10 @@ image:
   teaser: mongo.jpg
   thumb:
 date: 2016-03-30T23:55:00+08:00
+series: "Tutorial MongoDB"
 ---
+
+{% include series.html %}
 
 Ini adalah tutorial singkat MongoDB, yang berisi perintah-perintah dasar MongoDB
 

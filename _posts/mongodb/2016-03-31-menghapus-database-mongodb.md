@@ -12,9 +12,10 @@ image:
   teaser: mongo.jpg
   thumb:
 date: 2016-03-31T00:47:19+08:00
+series: "Tutorial MongoDB"
 ---
 
-Artikel ini sambungan dari [Membuat Database di MongoDB](/membuat-database-mongodb/).
+{% include series.html %}
 
 Untuk menghapus database dalam MongoDB gunakan perintah `db.dropDatabase()`.
 

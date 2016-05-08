@@ -9,10 +9,13 @@ comments: true
 ads: true
 image:
   feature:
-  teaser:
+  teaser: mongo.jpg
   thumb:
 date: 2016-03-31T20:04:16+08:00
+series: "Tutorial MongoDB"
 ---
+
+{% include series.html %}
 
 Jenis-jenis tipe data dalam MongoDB
 

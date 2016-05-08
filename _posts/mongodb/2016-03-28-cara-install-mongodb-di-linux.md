@@ -12,7 +12,10 @@ image:
   teaser: mongo.jpg
   thumb:
 date: 2016-03-28T23:44:40+08:00
+series: "Tutorial MongoDB"
 ---
+
+{% include series.html %}
 
 {% include toc.html %}
 

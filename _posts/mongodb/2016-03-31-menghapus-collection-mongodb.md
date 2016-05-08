@@ -12,7 +12,10 @@ image:
   teaser: mongo.jpg
   thumb:
 date: 2016-03-31T19:57:12+08:00
+series: "Tutorial MongoDB"
 ---
+
+{% include series.html %}
 
 Untuk menghapus/drop Collection menggunakan perintah `db.collectionName.drop()`
 

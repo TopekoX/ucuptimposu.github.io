@@ -12,7 +12,10 @@ image:
   teaser: mongo.jpg
   thumb:
 date: 2016-03-31T17:15:31+08:00
+series: "Tutorial MongoDB"
 ---
+
+{% include series.html %}
 
 Untuk membuat/create Collection di MongoDB menggunakan perintah
 
@@ -63,7 +66,7 @@ system.indexes
 Sekarang kita akan membuat collection dengan option
 
 ```
-> db.createCollection("collectionKu", {capped : true, autoIndexID : true, size : 1000, max : 10000})
+> db.createCollection("siswa",{capped : true, autoIndexID : true, size : 1000, max : 10000})
 { "ok" : 1 }
 >
 ```
