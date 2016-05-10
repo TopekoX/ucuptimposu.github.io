@@ -7,6 +7,7 @@ title: Java - Operator Java
 categories: java
 tags: [java]
 ads: true
+series : "Tutorial Java Core"
 image:
   feature:
   teaser: java.jpg
@@ -107,3 +108,5 @@ contoh
 </table>
 
 Sebenarnya masih ada jenis operator lainnya tapi saya hanya membahas diatas karena operator diatas paling banyak digunakan untuk operator lain silahkan menuju [ke sini](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html).
+
+{% include series.html %}

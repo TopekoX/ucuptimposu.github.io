@@ -4,7 +4,7 @@ date: 2015-11-04 06:02:04+00:00
 layout: article
 title: Tutorial MongoDB
 categories: tutorial
-tags: [mongodb, database]
+tags: [tutorial]
 ads: true
 image:
   feature:

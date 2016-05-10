@@ -4,7 +4,7 @@ title: Tutorial SMS Gateway
 modified:
 categories: tutorial
 excerpt:
-tags: []
+tags: [tutorial]
 comments: true
 ads: true
 image:
@@ -13,4 +13,3 @@ image:
   thumb:
 date: 2016-03-31T21:13:27+08:00
 ---
-

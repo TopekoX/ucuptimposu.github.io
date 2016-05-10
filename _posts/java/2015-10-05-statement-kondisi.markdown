@@ -7,6 +7,7 @@ title: Java - Statement Kondisi
 categories: java
 tags: [java]
 ads: true
+series : "Tutorial Java Core"
 image:
   feature:
   teaser: java.jpg
@@ -290,3 +291,5 @@ Output
 
 
 Dapat dilihat bahwa setelah mengekseskusi nilai yang sesuai eksekusi akan terus dilanjutkan karena tidak ada perintah `break`.
+
+{% include series.html %}

@@ -93,4 +93,4 @@ Jika muncul shell mongoDB seperti di atas berarti kita sudah berhasil terhubung 
 
 ### Referensi
 
-[https://docs.mongodb.org/manual/tutorial/install-mongodb-on-linux/#install-mongodb-community-edition](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-linux/#install-mongodb-community-edition)
+* [https://docs.mongodb.org](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-linux/#install-mongodb-community-edition)

@@ -7,6 +7,7 @@ title: Java - Array
 categories: java
 tags: [java]
 ads: true
+series : "Tutorial Java Core"
 image:
   feature:
   teaser: java.jpg
@@ -200,3 +201,5 @@ Dengan memahami konsep array kita akan mudah memahami konsep collection dan Pemr
 
 ### Referensi
  [https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+
+{% include series.html %}

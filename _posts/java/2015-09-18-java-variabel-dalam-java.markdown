@@ -7,6 +7,7 @@ title: Java - Variabel dalam Java
 categories: java
 tags: [java]
 ads: true
+series : "Tutorial Java Core"
 image:
   feature:
   teaser: java.jpg
@@ -201,3 +202,6 @@ output nya sama :
 
 
     Gaji Saya 5000000.0
+
+
+{% include series.html %}

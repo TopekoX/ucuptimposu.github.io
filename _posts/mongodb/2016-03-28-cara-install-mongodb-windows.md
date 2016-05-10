@@ -110,4 +110,4 @@ C:\mongodb\bin\mongod.exe --remove
 
 ### Referensi
 
-[https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/)
+[https://docs.mongodb.org/](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/)

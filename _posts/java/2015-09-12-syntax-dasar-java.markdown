@@ -10,6 +10,7 @@ ads: true
 image:
   feature:
   teaser: java.jpg
+series : "Tutorial Java Core"
 ---
 
 Didalam Bahasa Pemograman Java, kita mengenal
@@ -303,3 +304,5 @@ Dalam Java, sebuah interface dapat didefinisikan sebagai alat komunikasi anta
 Ebook : [Java Desktop - ifnu bima](https://project-template.googlecode.com/files/Java%20Desktop%20-%20Ifnu%20Bima.pdf)
 
 [http://www.tutorialspoint.com/java/java_basic_syntax.htm](http://www.tutorialspoint.com/java/java_basic_syntax.htm)
+
+{% include series.html %}

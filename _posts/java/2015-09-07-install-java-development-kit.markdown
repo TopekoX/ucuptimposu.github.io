@@ -10,6 +10,7 @@ ads: true
 image:
   feature:
   teaser: java.jpg
+series : "Tutorial Java Core"
 ---
 
 Untuk membuat program Java dibutuhkan setidaknya perangkat lunak diantaranya
@@ -128,3 +129,5 @@ Java kaya akan editor .. tanpa mendownload editor pun kita sebenarnya bisa membu
 Mau pake yang mana? terserah anda dong.. pake notepad pun bisa...
 
 Sampai disini dulu tutorial installasi Java di berbagai OS.. ada banyak referensi di internet untuk menginstall java...
+
+{% include series.html %}

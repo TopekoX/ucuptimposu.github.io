@@ -7,6 +7,7 @@ title: Java - Tipe Data dalam Java
 categories: java
 tags: [java]
 ads: true
+series : "Tutorial Java Core"
 image:
   feature:
   teaser: java.jpg
@@ -74,3 +75,5 @@ int e = Integer.parseInteger("100");
   * [https://en.wikipedia.org/wiki/Primitive_wrapper_class](https://en.wikipedia.org/wiki/Primitive_wrapper_class)
 
   <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
+
+    {% include series.html %}

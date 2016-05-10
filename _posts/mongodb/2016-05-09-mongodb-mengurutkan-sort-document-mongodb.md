@@ -44,4 +44,4 @@ hasil
 
 ### Referensi
 
-[https://docs.mongodb.com/](https://docs.mongodb.com/manual/reference/method/cursor.sort/)
+* [https://docs.mongodb.com/](https://docs.mongodb.com/manual/reference/method/cursor.sort/)

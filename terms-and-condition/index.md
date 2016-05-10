@@ -15,7 +15,7 @@ Selamat datang di [timposu.com](http://timposu.com)
 
 Terms & Condition atau Syarat & Ketentuan yang ditetapkan di website ini mengatur cara penggunaan situs [timposu.com](http://timposu.com). Pengguna disarankan membaca dengan seksama karena dapat berdampak kepada hak dan kewajiban pengguna website ini.
 
-Dengan menggunakan situs [timposu.com](http://timposu.com), maka pengguna dianggap telah membaca, mengerti, memahami dan menyutujui semua isi dalam Syarat & Ketentuan. Syarat & Ketentuan ini merupakan bentuk kesepakatan yang dituangkan dalam sebuah perjanjian yang sah antara Pengguna dengan [timposu.com](http://timposu.com). Jika pengguna tidak menyetujui salah satu, sebagian, atau seluruh isi Syarat & Ketentuan, maka pengguna tidak diperkenankan menggunakan isi artikel yang ada di [timposu.com](http://timposu.com) untuk keperluan apapun.
+Dengan menggunakan situs [timposu.com](http://timposu.com), maka pengguna dianggap telah membaca, mengerti, memahami dan menyutujui semua isi dalam Syarat & Ketentuan. 
 
 
 ### Isi Syarat & Ketentuan

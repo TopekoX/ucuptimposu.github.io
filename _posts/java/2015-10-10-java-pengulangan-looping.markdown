@@ -7,6 +7,7 @@ title: Java - Pengulangan / Looping
 categories: java
 tags: [java]
 ads: true
+series: "Tutorial Java Core"
 image:
   feature:
   teaser: java.jpg
@@ -283,3 +284,6 @@ output
     7
     8
     9
+
+
+{% include series.html %}
