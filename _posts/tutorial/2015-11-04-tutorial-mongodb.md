@@ -19,7 +19,7 @@ image:
 
 
 
-## Intro MongoDB
+## 1. Intro MongoDB
 
 * [Mengenal MongoDB](/mengenal-mongodb/)
 * [Install MongoDB di Windows](/cara-install-mongodb-windows/)
@@ -28,7 +28,7 @@ image:
 
 {% include iklan-box.html %}
 
-## Database
+## 2. Database
 
 * [Membuat Database](/membuat-database-mongodb/)
 * [Menghapus Database](/menghapus-database-mongodb/)
@@ -36,7 +36,7 @@ image:
 * [Menghapus Collection](/menghapus-collection-mongodb/)
 * [Tipe Data MongoDB](/tipe-data-mongodb/)
 
-## Document
+## 3. Document
 
 * [Insert Record](/mongodb-insert-document/)
 * [Query](/mongodb-query/)

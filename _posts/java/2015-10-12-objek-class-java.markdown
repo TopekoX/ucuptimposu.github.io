@@ -125,6 +125,19 @@ Nilai b null
 
 nilai `b` akan bernilai `null` karena kita belum memasukan nilai apapun kedalamnya.
 
+## Konsep OOP
+
+Seperti kita ketahui bahwa Java adalah bahasa pemrograman yang secara full menggunakan konsep OOP (walaupun di Java 8 juga menggunakan konsep Struktural juga). Secara sederhana dapat kita simpulkan bahwa sebuah aplikasi Java yang dikembangkan dengan OOP selalu menggunakan konsep :
+
+* Object
+* Class
+* Inheritance
+* Polymorphism
+* Abstraction
+* Encapsulation
+
+Pembahasan lebih lanjut tentang konsep OOP dalam Java akan dibahas di seri next tutorial.. :)
+
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 {% include series.html %}
