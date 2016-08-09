@@ -120,4 +120,6 @@ Halo Ucup
 
 Dari hasil di atas kita dapat memanggil method `getNama()` tanpa harus membuat instance-nya dulu.
 
+{% include series.html %}
+
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
