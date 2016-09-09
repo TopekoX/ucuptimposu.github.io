@@ -130,7 +130,7 @@ Contoh versi ruby yang ingin digunakan v.1.9.3
     rvm use 1.9.3
     rvm rubygems latest
 
-Tambahkan path environments di .bashrc perintah berikut ` source /home/user/.rvm/scripts/rvm ` buka terminal baru ketik ` ruby --version ` jika muncul versi Ruby berarti ruby sukses terinstall.
+Tambahkan path environments di .bashrc perintah berikut `source /home/user/.rvm/scripts/rvm` buka terminal baru ketik `ruby --version` jika muncul versi Ruby berarti ruby sukses terinstall.
 
 
 #### Install Jekyll

@@ -10,7 +10,7 @@ ads: true
 series: "Tutorial Java Core"
 image:
   feature:
-  teaser:
+  teaser: java.jpg
   thumb:
 date: 2016-07-11T23:16:42+08:00
 ---
