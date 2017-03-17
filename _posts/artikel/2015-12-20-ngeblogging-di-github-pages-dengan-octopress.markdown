@@ -59,11 +59,11 @@ Octopress ini adalah framework yang dibuat di atas [Jekyll](jekyllrb.com), beber
 
 Pertama tama biar articleing yang dibuat di WP tidak mubazir jadi bisa kita export, lalu kita konversi menjadi markdown dengan [exitwp](https://github.com/thomasf/exitwp/)
 
-  * Download atau clone dengan `` git clone https://github.com/thomasf/exitwp ``
+  * Download atau clone dengan ``git clone https://github.com/thomasf/exitwp``
   * Export artikel atau page wordpress lama  dengan wordpress exporter dari menu admin wordpress tools > export.
-  * Tempatkan hasil export wordpress xml ke dalam direktori `` wordpress-xml ``.
+  * Tempatkan hasil export wordpress xml ke dalam direktori ``wordpress-xml``.
   * Jalankan perintah `python exitwp.py`.
-  * Hasil konversi blog ada di direktori ` build `
+  * Hasil konversi blog ada di direktori `build`
 
 Petunjuk selengkapnya bisa dilihat di file __README__ nya.
 
@@ -72,7 +72,7 @@ Petunjuk selengkapnya bisa dilihat di file __README__ nya.
 Ikuti beberapa langkah berikut :
 
   1. Install [Git](https://git-scm.com)
-  2. Install Ruby dengan ` rvm `
+  2. Install Ruby dengan `rvm`
   3. Install Jekyll
   4. Clone Octopress
 
