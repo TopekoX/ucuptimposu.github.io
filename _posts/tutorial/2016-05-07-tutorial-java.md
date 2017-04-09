@@ -33,3 +33,10 @@ Tutorial ini adalah pondasi pemrograman Java, atau inti dari bahasa pemrograman 
 # Java OOP
 
 * [Class dan Objek](/objek-class-java/)
+* [Method](/method-dalam-java/)
+* [Method Everloading](/java-oop-method-overloading/)
+* [Constructor](/java-oop-constructor-dalam-java/)
+* [Static keyword](/java-oop-keyword-static-dalam-java/)
+* [This keyword](/java-oop-keyword-this-dalam-java/)
+* [Pewarisan / Inheritance](/java-oop-pewarisan-inheritance-dalam-java/)
+

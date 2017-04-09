@@ -3,7 +3,7 @@ layout: archive
 title: "Java"
 date: 2016-03-16T11:39:03-04:00
 modified:
-excerpt: "Kumpulan Artikel Pemrograman Java"
+excerpt: ""
 tags: []
 image:
   feature:

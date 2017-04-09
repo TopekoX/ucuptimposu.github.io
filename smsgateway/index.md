@@ -3,7 +3,7 @@ layout: archive
 title: "SMS Gateway"
 date: 2016-03-16T11:39:03-04:00
 modified:
-excerpt: "Kumpulan Artikel Seputar SMS Gateway"
+excerpt: ""
 tags: []
 image:
   feature:
