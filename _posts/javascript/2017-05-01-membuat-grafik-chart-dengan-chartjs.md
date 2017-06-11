@@ -134,7 +134,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
         datasets: [{
-            label: '# Jumlah Survei',
+            label: '# of Votes',
             data: [12, 19, 3, 5, 2, 3],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
@@ -175,3 +175,11 @@ Demikian beberapa contoh penggunaan Chart.js untuk Contoh lain bisa di lihat [di
 ### Referensi 
 
 [http://www.chartjs.org/](http://www.chartjs.org/)
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
+
+## Selanjutnya
+
+* [Membuat Grafik Batang Dengan Chartjs + PHP + MySQL](/membuat-grafik-batang-dengan-chartjs-php-mysql/)
+
+* [Membuat Grafik Garis (Line Chart) Dengan Chartjs + PHP + MySQL](/membuat-grafik-garis-line-chart-denga-chartjs-php-mysql/)
