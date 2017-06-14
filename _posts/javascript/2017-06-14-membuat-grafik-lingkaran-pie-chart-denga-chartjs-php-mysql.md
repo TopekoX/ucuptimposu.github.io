@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Membuat Grafik Batang Dengan Chartjs + PHP + MySQL
+title: Membuat Grafik Lingkaran (Pie Chart) Denga Chartjs + PHP + MySQL
 modified:
 categories: javascript
 excerpt:
@@ -11,10 +11,10 @@ image:
   feature:
   teaser: chartjs.png
   thumb: chartjs.png
-date: 2017-06-11T02:11:59-04:00
+date: 2017-06-11T06:04:16-04:00
 ---
 
-Diartikel sebelumnya saya sudah membahas [membuat grafik berbasis web dengan Chart.JS](/membuat-grafik-chart-dengan-chartjs/), dan di artikel ini saya akan membahas membuat grafik dengan Chart.JS yang sumber datanya berasal dari database MySQL dengan menggunakan PHP (untuk bahasa pemrograman lain tinggal manyesuaikan saja).
+Diartikel sebelumnya saya sudah membahas [membuat grafik berbasis web dengan Chart.JS](/membuat-grafik-chart-dengan-chartjs/), [membuat grafik batang dengan PHP + MySql](/membuat-grafik-batang-dengan-chartjs-php-mysql/) dan [membuat grafik garis dengan PHP + MySql](/membuat-grafik-garis-line-chart-denga-chartjs-php-mysql/), dan di artikel ini saya akan membahas membuat grafik lingkaran dengan Chart.JS yang sumber datanya berasal dari database MySQL dengan menggunakan PHP (untuk bahasa pemrograman lain tinggal manyesuaikan saja).
 
 ### Tools yang digunakan
 
@@ -54,6 +54,7 @@ INSERT INTO `smartphone` (`Merk`, `Penjualan`) VALUES ('Xiaomi', '80');
 Berikutnya buat file PHP untuk menampilkan datanya dalam bentuk chart. Misal kita kasi nama filenya `index.php` :
 
 ```html
+
 <?php
 $koneksi     = mysqli_connect("localhost", "root", "xxxxxx", "latihan");
 $penjualan      = mysqli_query($koneksi, "SELECT Penjualan FROM smartphone order by ID asc");
@@ -63,7 +64,7 @@ $merek = mysqli_query($koneksi, "SELECT Merk FROM smartphone order by ID asc");
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Demo Grafik Batang</title>
+    <title>Demo Grafik Lingkaran</title>
     <script src="js/Chart.js"></script>
     <style type="text/css">
             .container {
@@ -99,37 +100,23 @@ $merek = mysqli_query($koneksi, "SELECT Merk FROM smartphone order by ID asc");
     	            };
 
     	  var myBarChart = new Chart(ctx, {
-    	            type: 'bar',
+    	            type: 'pie',
     	            data: data,
     	            options: {
-    	            barValueSpacing: 20,
-    	            scales: {
-    	              yAxes: [{
-    	                  ticks: {
-    	                      min: 0,
-    	                  }
-    	              }],
-    	              xAxes: [{
-    	                          gridLines: {
-    	                              color: "rgba(0, 0, 0, 0)",
-    	                          }
-    	                      }]
-    	              }
+                    responsive: true
     	          }
     	        });
     	</script>
 
   </body>
 </html>
-
-
 ```
 
 Berikut hasilnya:
 
-![Grafik Batang](/images/chartjs/bar2.png)
+![Grafik Batang](/images/chartjs/chartpie.png)
 
 
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
-_Download Project : [DemoChartBar.zip](http://j.gs/97hs)_
+_Download Project : [DemoChartPie.zip](http://adf.ly/1mwuZx)_
