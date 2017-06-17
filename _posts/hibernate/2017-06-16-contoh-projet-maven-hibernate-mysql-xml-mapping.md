@@ -9,12 +9,12 @@ comments: true
 ads: true
 image:
   feature:
-  teaser: hibernate_logo.png
-  thumb: hibernate_logo.png
+  teaser: hibernate.png
+  thumb: hibernate.png
 date: 2017-06-16T23:20:35-04:00
 ---
 
-![Hibernate](/images/hibernate_logo.png)
+![Hibernate](/images/hibernate.png)
 
 Di tutorial ini kita akan membuat project Hibernate dengan menggunakan Maven untuk generate projectnya, dan Hibernate untuk CRUD data ke MySQL atau MariaDB
 
