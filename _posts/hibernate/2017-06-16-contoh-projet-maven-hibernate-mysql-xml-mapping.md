@@ -538,7 +538,7 @@ MariaDB [belajarhibernate]> select * from pegawai;
 2 rows in set (0.00 sec)
 ```
 
-DONE
+DONE.
 
 ![Download](/images/download.png) **Download** : *[BelajarHibernateXML.zip](http://j.gs/98Gi)*
 {: .notice-success}
