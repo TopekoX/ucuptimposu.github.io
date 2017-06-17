@@ -31,6 +31,8 @@ Tool yang saya digunakan
 
 ### Membuat Project
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
+
 Masuk di terminal ketik, perintah dibawah ini untuk membuat project:
 
 ```
@@ -107,5 +109,8 @@ AplikasiSpring
    |-----------AppTest.java
    |-pom.xml
 ```
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
+
 
 Selanjutnya tinggal load projectnya lewat IDE Eclipse, Netbeans atau Intllij IDEA, caranya bisa liat di [sini](/apache-maven/)
