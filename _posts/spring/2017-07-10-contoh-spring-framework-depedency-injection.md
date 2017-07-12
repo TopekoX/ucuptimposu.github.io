@@ -22,6 +22,8 @@ Biar lebih mudah dipahami di bawah ini gambar dimana kita akan membuat 2 buah cl
 
 ![Depedency Injection](/images/spring/DI.png)
 
+*Gambar : Depedency Injection*
+
 Di tutorial in, kita hanya menyambung [project sebelumnya](/contoh-spring-framework-hello-world-annotation/).
 
 ### Class Model
@@ -47,6 +49,8 @@ public class Hello {
 ```
 
 Class diatas akan di inject dengan class di bawah ini
+
+*File : DataHello.java*
 
 ```java
 package com.timposu.belajarspring.model;
