@@ -16,9 +16,13 @@ date: 2017-07-09T12:46:24-04:00
 
 ![Spring](/images/spring.png)
 
-Depedency injection adalah fitur yang dibawah oleh spring, nah di tutorial ini adalah contoh project DI sederhana.
+Depedency Injection(DI) adalah fitur yang dibawah oleh spring, nah di tutorial ini kita akan membuat contoh project DI sederhana.
 
-Kita hanya menyambung project sebelumnya
+Biar lebih mudah dipahami di bawah ini gambar dimana kita akan membuat 2 buah class yang salah satunya akan di panggil / di inject.
+
+![Depedency Injection](/images/DI.png)
+
+Di tutorial in, kita hanya menyambung [project sebelumnya](/contoh-spring-framework-hello-world-annotation/).
 
 ### Class Model
 
@@ -28,7 +32,7 @@ Kita hanya menyambung project sebelumnya
 package com.timposu;
 
 public class Hello {
-	
+
 	private String name;
 
 	public String getName() {
@@ -48,7 +52,7 @@ Class diatas akan di inject dengan class di bawah ini
 package com.timposu.belajarspring.model;
 
 public class DataHello {
-	
+
 	private Hello hello; //memanggil class Hello
 
 	public DataHello(Hello hello) {
@@ -63,7 +67,7 @@ public class DataHello {
 	public void setHello(Hello hello) {
 		this.hello = hello;
 	}
-		
+
 }
 ```
 
@@ -83,14 +87,14 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AppConfig {
-	
+
 	@Bean(name = "hello")
 	public Hello createHello(){
 		Hello hello = new Hello();
 		hello.setName("Ucup Timposu");
 		return hello;
 	}
-	
+
 	@Bean
 	public DataHello hello(Hello hello) {
 		DataHello dataHello = new DataHello(hello);
@@ -117,12 +121,12 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
         ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
-        
+
         DataHello dataHello = context.getBean(DataHello.class);
         System.out.println(dataHello.getHello().getMessage());
     }
@@ -139,4 +143,4 @@ public class App
 Halo Ucup Timposu
 ```
 
-
+DONE.
