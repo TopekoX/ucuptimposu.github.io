@@ -20,7 +20,7 @@ Depedency Injection(DI) adalah fitur yang dibawah oleh spring, nah di tutorial i
 
 Biar lebih mudah dipahami di bawah ini gambar dimana kita akan membuat 2 buah class yang salah satunya akan di panggil / di inject.
 
-![Depedency Injection](/images/DI.png)
+![Depedency Injection](/images/spring/DI.png)
 
 Di tutorial in, kita hanya menyambung [project sebelumnya](/contoh-spring-framework-hello-world-annotation/).
 
