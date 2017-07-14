@@ -186,7 +186,7 @@ Halo Ucup Timposu
 
 Dari penggunaan JavaConfig dan XMLConfig terlihat perbedaan penggunaan file XML dan Class @Annotation. Mana yang terbaik? menurut hemat saya sama-sama baik, akan tetapi menggunakan annotation memberikan keuntungan dalam hal kecepatan dalam membuat program. Kita tidak dipusingkan lagi mengingat property yang ada dalam XML ketika mendefinisikan bean, di sisi lain penggunaan annotation di dalam editor IDE memberikan kemudahan karena terdapat suggestion code sehingga mempermudah dalam penulisan kode program. 
 
-Dari itu, di dalam blog ini penggunaan JavaConfig Annoation dalam tutorial Spring akan lebih banyak digunakan.
+Dari itu, di dalam blog ini penggunaan JavaConfig Annotation dalam Tutorial Spring akan lebih banyak digunakan.
 
 ![Download](/images/download.png) *Download* : *[BelajarSpringJavaConfig.zip](http://adf.ly/1n9bkv)*
 {: .notice-success}

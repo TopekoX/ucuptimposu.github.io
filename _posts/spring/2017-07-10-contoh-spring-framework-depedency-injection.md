@@ -107,6 +107,7 @@ public class AppConfig {
 }
 ```
 
+Pada method `hello` parameternya akan diinject oleh spring secara otomatis. Spring akan mencari bean yang sesuai dengan tipe parameternya.
 
 
 ### Main Class

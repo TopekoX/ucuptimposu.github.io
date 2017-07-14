@@ -420,7 +420,7 @@ public class App
 Disini saya running lewat command prompt mengunakan Maven
 
 ```
-$ mvn clean package exec:java -Dexec.mainClass=com.timposu.App
+$ mvn clean package exec:java -Dexec.mainClass=com.timposu.App -Dexec.cleanupDaemonThreads=false
 ....
 Hibernate: 
     insert 

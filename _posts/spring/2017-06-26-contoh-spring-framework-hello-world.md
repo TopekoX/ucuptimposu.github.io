@@ -13,7 +13,7 @@ image:
 date: 2017-06-26T10:12:38-04:00
 ---
 
-![Hibernate](/images/spring.png)
+![Spring](/images/spring.png)
 
 Ditutorial kali ini, kita akan membuat project Spring sederhana Hello World. 
 
