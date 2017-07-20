@@ -92,7 +92,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class AppConfig {
 
-	@Bean(name = "hello")
+	@Bean
 	public Hello createHello(){
 		Hello hello = new Hello();
 		hello.setName("Ucup Timposu");
