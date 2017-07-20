@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Spring Framework Depedency Injection Bag 2
+title: Spring Framework Depedency Injection Bag 3
 modified:
 categories: spring
 excerpt:
@@ -11,7 +11,7 @@ image:
   feature:
   teaser: spring.png
   thumb: spring.png
-date: 2017-07-20T12:46:24-04:00
+date: 2017-07-20T14:46:24-04:00
 ---
 
 ![Spring](/images/spring.png)
@@ -22,7 +22,7 @@ Pada tutorial ini kita akan menyambung project sebelumnya dengan menambahkan seb
 
 Di tutorial in, kita hanya menyambung [project sebelumnya](/contoh-spring-framework-hello-world-annotation/).
 
-Saya rename 2 class model dengan nama `HelloA` dan `HelloB`.
+Saya buat 3 class model dengan nama `HelloA`,`HelloB` dan `HelloC`.
 
 ### Class Model
 
@@ -48,7 +48,7 @@ public class Hello {
 
 Class diatas akan di inject dengan class `HelloB` di bawah ini
 
-*File : DataHello.java*
+*File : HelloB.java*
 
 ```java
 package com.timposu.belajarspring.model;
@@ -74,14 +74,51 @@ public class HelloB {
 ```
 
 
+*File : HelloC.java*
+
+```java
+package com.timposu.belajarspring.model;
+
+public class HelloC {
+	
+	private HelloA helloA;
+	
+	private HelloB helloB;
+
+	public HelloC(HelloA helloA, HelloB helloB) {
+		super();
+		this.helloA = helloA;
+		this.helloB = helloB;
+	}
+
+	public HelloA getHelloA() {
+		return helloA;
+	}
+
+	public void setHelloA(HelloA helloA) {
+		this.helloA = helloA;
+	}
+
+	public HelloB getHelloB() {
+		return helloB;
+	}
+
+	public void setHelloB(HelloB helloB) {
+		this.helloB = helloB;
+	}
+	
+	
+}
+```
+
+Seperti yang dilihat diaatas class `HelloC` membutuhkan 2 class `HelloA` dan `HelloB`.
+
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 
 ### Spring Java Config Hello World
 
-Di Bagian class config kita Bean `HelloB` akan memanggil bean `HelloA` akan tetapi karena bean `HelloA` ada 2 makan kita perlu memberikan `name` ke setiap bean `HelloA` yang akan kita buat yang nantinya akan dipanggil oleh Bean `HelloB` menggunakan Annotation `@Qualifier`.
-
-Disini saya kasi nama kedua bean tersebut dengan nama `"Ucup"` dan `"Timposu"`.
+Disini kita buat bean baru `HelloC` yang akan menginject bean yang dibutuhkan.
 
 ```java
 package com.timposu.belajarspring;
@@ -91,6 +128,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import com.timposu.belajarspring.model.HelloB;
+import com.timposu.belajarspring.model.HelloC;
 import com.timposu.belajarspring.model.HelloA;
 
 @Configuration
@@ -116,6 +154,12 @@ public class SpringConfiguration {
 		return helloB;
 	}
 	
+	@Bean
+	public HelloC helloC(@Qualifier("ucup") HelloA a, HelloB b) {
+		HelloC c = new HelloC(a, b);
+		return c;
+	}
+	
 }
 ```
 
@@ -139,10 +183,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
-
-        DataHello dataHello = context.getBean(DataHello.class);
-        System.out.println(dataHello.getHello().getMessage());
+        HelloC helloC = context.getBean(HelloC.class);
+        System.out.println(helloC.getHelloA().getMessage());
+        System.out.println(helloC.getHelloB().getHello().getMessage());      
     }
 }
 ```
@@ -154,11 +197,12 @@ public class App
 ### Run
 
 ```
-Halo Timposu
+Ucup
+Timposu
 ```
 
 DONE.
 
 ### Tonton Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNFe8u4CxdM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vuWsSeKCk30" frameborder="0" allowfullscreen></iframe>
