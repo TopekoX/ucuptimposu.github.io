@@ -93,6 +93,8 @@ public class SpringConfiguration {
 }
 ```
 
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
+
 ### Main Class
 
 Panggil class Configuration dengan `AnnotationConfigApplicationContext`
@@ -113,17 +115,7 @@ public class App
     {
         ApplicationContext context = 
         		new AnnotationConfigApplicationContext(SpringConfiguration.class);
-        
-//        Hello hello = context.getBean(Hello.class);
-//        System.out.println(hello.getMessage());
-        
-//        HelloB helloB = context.getBean(HelloB.class);
-//        System.out.println(helloB.getHello().getMessage());
-        
-//        HelloC helloC = context.getBean(HelloC.class);
-//        System.out.println(helloC.getHelloA().getMessage());
-//        System.out.println(helloC.getHelloB().getHello().getMessage());
-        
+             
         HelloComponentA hc = context.getBean(HelloComponentA.class);
         hc.sayMessage();
     }
