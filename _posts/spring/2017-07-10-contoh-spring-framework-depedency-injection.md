@@ -35,14 +35,14 @@ package com.timposu;
 
 public class Hello {
 
-	private String name;
+	private String message;
 
-	public String getName() {
-		return name;
+	public String getmessage() {
+		return message;
 	}
 
-	public void setName(String name) {
-		this.name = name;
+	public void setMessage(String message) {
+		this.message = message;
 	}
 
 }
@@ -149,3 +149,7 @@ Halo Ucup Timposu
 ```
 
 DONE.
+
+### Video
+
+<div style="position:relative;height:0;padding-bottom:75.0%"><iframe src="https://www.youtube.com/embed/9anTdmI17FM?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
