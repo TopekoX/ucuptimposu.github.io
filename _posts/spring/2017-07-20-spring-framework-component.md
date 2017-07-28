@@ -23,23 +23,18 @@ Pada tutorial ini kita akan membuat `component`. Pada tutorial Spring sebelumnya
 *File : HelloComponentA.java*
 
 ```java
-package com.timposu.belajarspring.component;
+package com.timposu.belajarspring.belajarspring.component;
 
 import org.springframework.stereotype.Component;
 
 @Component
 public class HelloComponentA {
-	
-	private HelloComponentB b;
-	
-	public HelloComponentA(HelloComponentB b) {
-		this.b = b;
-	}
 
 	public void sayMessage() {
 		System.out.println("Apa kabar dunia???");
 	}
 }
+
 ```
 
 Dengan membuat class `component` diatas kita tidak perlu membuat `bean` pada class Configuration yang perlu di tambahkan cukup annotation `@ComponentScan`.
@@ -125,6 +120,10 @@ public class App
 
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
+### Download
+
+![Download](/images/download.png) *Download* : *[BelajarSpringComponent.zip](http://adf.ly/1nbgR6)*
+{: .notice-success}
 
 ### Tonton Video
 

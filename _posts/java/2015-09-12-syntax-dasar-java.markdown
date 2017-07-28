@@ -245,7 +245,7 @@ Array adalah objek yang menyimpan beberapa variabel dari jenis yang sama. Namun,
 
 Berikut macam-macam keyword dalam java
 
-[![Keyword java](http://i713.photobucket.com/albums/ww134/upamisterlobal/1_zpsssxcga4c.png)](http://i713.photobucket.com/albums/ww134/upamisterlobal/1_zpsssxcga4c.png)
+[![Keyword java](http://i66.tinypic.com/9puy50.png)](http://i66.tinypic.com/9puy50.png)
 
 
 
