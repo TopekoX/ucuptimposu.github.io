@@ -125,25 +125,25 @@ Panggil class Configuration dengan `AnnotationConfigApplicationContext`
 *File App.java*
 
 ```java
-package com.timposu;
+package com.timposu.belajarspring.belajarspring;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-/*
- * Hello world!
- *
- */
-public class App
+import com.timposu.belajarspring.belajarspring.model.HelloB;
+
+public class App 
 {
     public static void main( String[] args )
     {
-        ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
-
-        DataHello dataHello = context.getBean(DataHello.class);
-        System.out.println(dataHello.getHello().getMessage());
+    	 ApplicationContext context = 
+         		new AnnotationConfigApplicationContext(SpringConfiguration.class);
+    	 
+    	 HelloB helloB = context.getBean(HelloB.class);
+         System.out.println("Bean yang dipanggil " + helloB.getHello().getMessage());
     }
 }
+
 ```
 
 
@@ -153,10 +153,16 @@ public class App
 ### Run
 
 ```
-Halo Timposu
+Bean yang dipanggil Timposu
 ```
 
 DONE.
+
+### Download
+
+![Download](/images/download.png) *Download* : *[BelajarSpringDI2.zip](http://adf.ly/1nbfi6)*
+{: .notice-success}
+
 
 ### Tonton Video
 
