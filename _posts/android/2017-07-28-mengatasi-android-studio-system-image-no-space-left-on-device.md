@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Mengatasi Android Studio : System Image: No Space Left on Device
+title: Mengatasi Android Studio - System Image No Space Left on Device
 modified:
 categories: android
 excerpt:
