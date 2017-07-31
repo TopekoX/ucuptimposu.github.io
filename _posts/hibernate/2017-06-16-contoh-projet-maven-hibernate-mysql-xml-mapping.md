@@ -437,7 +437,7 @@ public class ManagePegawai {
 Disini saya running lewat command prompt mengunakan Maven
 
 ```
-$ mvn clean package exec:java -Dexec.mainClass=com.timposu.ManagePegawai
+$ mvn clean package exec:java -Dexec.mainClass=com.timposu.ManagePegawai -Dexec.cleanupDaemonThreads=false
 ....
 Hibernate: 
     insert 
