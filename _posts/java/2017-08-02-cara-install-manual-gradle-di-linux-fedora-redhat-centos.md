@@ -14,22 +14,15 @@ image:
 date: 2017-08-02T22:18:40+08:00
 ---
 
+![Gradle](/images/gradlephant.png)
+
 Sama seperti [Maven](https://maven.apache.org/), [Gradle](https://gradle.org/) adalah aplikasi Build Tool yang sangat populer selain Maven di dalam dunia Java. Gradle digadang-gadang memiliki teknologi yang moderen sehingga banyak programmer yang mempercayakan projectnya ditangani oleh Gradle.
 
 *Baca Lebih Lanjut*
 
 [Maven vs Gradle](https://gradle.org/maven-vs-gradle/)
 
-<!-- Iklan Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4504493660273886"
-     data-ad-slot="7129625873"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></center>
-
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 Pada postingan kali ini kita akan menngistall Gradle secara manual di Redhat base OS, misalnya Fedora, Centos maupun Redhat.
 
@@ -46,15 +39,7 @@ Download Gradle di [https://gradle.org/releases/](https://gradle.org/releases/),
 $ sudo alternatives --install /usr/bin/gradle gradle /opt/gradle-4.0.2/bin/ 200000
 ```
 
-<!-- Iklan Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4504493660273886"
-     data-ad-slot="7129625873"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></center>
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
 
 Cek instalasinya :
