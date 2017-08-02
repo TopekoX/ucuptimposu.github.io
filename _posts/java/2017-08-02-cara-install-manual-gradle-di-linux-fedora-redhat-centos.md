@@ -45,7 +45,7 @@ $ sudo alternatives --install /usr/bin/gradle gradle /opt/gradle-4.0.2/bin/ 2000
 Cek instalasinya :
 
 ```
-gradle -v
+$ gradle -v
 
 ------------------------------------------------------------
 Gradle 4.0.2
