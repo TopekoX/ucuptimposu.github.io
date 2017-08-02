@@ -57,3 +57,11 @@ Ant:          Apache Ant(TM) version 1.9.6 compiled on June 29 2015
 JVM:          1.8.0_141 (Oracle Corporation 25.141-b15)
 OS:           Linux 4.11.11-300.fc26.x86_64 amd64
 ```
+
+### Tonton Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/85nQHyPZGCk" frameborder="0" allowfullscreen></iframe>
+
+#### Referensi
+
+[gradle.org/install](https://gradle.org/install/#install)
