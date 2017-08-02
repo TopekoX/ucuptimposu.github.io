@@ -18,9 +18,7 @@ date: 2017-08-02T22:18:40+08:00
 
 Sama seperti [Maven](https://maven.apache.org/), [Gradle](https://gradle.org/) adalah aplikasi Build Tool yang sangat populer selain Maven di dalam dunia Java. Gradle digadang-gadang memiliki teknologi yang moderen sehingga banyak programmer yang mempercayakan projectnya ditangani oleh Gradle.
 
-*Baca Lebih Lanjut*
-
-[Maven vs Gradle](https://gradle.org/maven-vs-gradle/)
+*Baca* [Maven vs Gradle](https://gradle.org/maven-vs-gradle/)
 
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- BOX--><ins class="adsbygoogle"  style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4504493660273886" data-ad-slot="1638134271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></center>
 
