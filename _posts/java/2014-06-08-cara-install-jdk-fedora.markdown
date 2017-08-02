@@ -1,9 +1,9 @@
 ---
 comments: true
-date: 2014-06-08 03:29:59+00:00
+date: 2017-06-08 03:29:59+00:00
 layout: article
 slug: cara-install-jdk-fedora
-title: Cara Install Oracle Java JDK di Fedora 21/20, CentOS/RHEL 7/6.6/5.11
+title: Cara Install Oracle Java JDK di Fedora 24/23/22/21/20, CentOS/RHEL 7/6.6/5.11
 categories: java
 tags: [java]
 ads: true
@@ -12,7 +12,7 @@ image:
   teaser: java.jpg
 ---
 
-Secara default biasanya distro besar sudah memaketkan JDK dalam distro mereka yang versi Opensource yang bernama Openjdk. Untuk menginstall JDK Oracle resmi di Fedora 21/20, CentOS/RHEL 7/6.6/5.11 ikuti langkah-langkah berikut.
+Secara default biasanya distro besar sudah memaketkan JDK dalam distro mereka yang versi Opensource yang bernama Openjdk. Untuk menginstall JDK Oracle resmi di Fedora 24/23/22/21/20, CentOS/RHEL 7/6.6/5.11 ikuti langkah-langkah berikut.
 
 
 
