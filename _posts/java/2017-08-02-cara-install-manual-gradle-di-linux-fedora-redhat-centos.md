@@ -4,7 +4,7 @@ title: Cara Install Manual Gradle Di Linux Fedora, Redhat, Centos
 modified:
 categories: java
 excerpt:
-tags: []
+tags: [java, spring, android, fedora, gradle, eclipse, netbeans, idea]
 comments: true
 ads: true
 image:
