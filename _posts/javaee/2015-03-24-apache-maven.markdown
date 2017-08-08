@@ -4,8 +4,8 @@ date: 2015-03-24 03:54:30+00:00
 layout: article
 slug: apache-maven
 title: Kenalan Sama Apache Maven
-categories: jee
-tags: [jee, java, maven]
+categories: javaee
+tags: [javaee, jee, java, maven]
 ads: true
 image:
   feature:

@@ -10,7 +10,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.jee %}
-  {% include post-grid.html %}
+{% for post in site.categories.javaee %}
+  {% include post-list.html %}
 {% endfor %}
 </div><!-- /.tiles -->

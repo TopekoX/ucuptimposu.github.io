@@ -3,8 +3,8 @@ layout: article
 title: "Maven Without web.xml Java Web"
 date: 2016-02-20 19:15:08 +0800
 comments: true
-categories: [jee]
-tags: [java, jee, java web, maven]
+categories: [javaee]
+tags: [java, javaee, java web, maven]
 ads: true
 image:
   feature:

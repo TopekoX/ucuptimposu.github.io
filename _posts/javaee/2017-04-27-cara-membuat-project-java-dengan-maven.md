@@ -2,9 +2,9 @@
 layout: article
 title: Cara Membuat Project Java Dengan Maven
 modified:
-categories: jee
+categories: javaee
 excerpt:
-tags: [maven, jee, java, maven]
+tags: [maven, javaee, jee, java, maven]
 comments: true
 ads: true
 image:
