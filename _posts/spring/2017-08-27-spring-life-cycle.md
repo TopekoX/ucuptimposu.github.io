@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Spring Life Cycle
+title: Spring - Bean Life Cycle
 modified:
 categories: spring
 excerpt:
