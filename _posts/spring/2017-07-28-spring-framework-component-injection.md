@@ -14,6 +14,8 @@ image:
 date: 2017-07-28T11:33:48+08:00
 ---
 
+![Spring](/images/spring.png)
+
 Pada [tulisan sebelumnya](/spring-framework-component/) kita sudah membuat `component` dalam Spring. Pada tulisan ini kita akan mencoba melakukan Component Injection.
 
 ### Membuat Class Component
@@ -45,9 +47,9 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class HelloComponentA {
-	
+
 	private HelloComponentB componentB;
-		
+
 	public HelloComponentA(HelloComponentB componentB) {
 		this.componentB = componentB;
 	}
@@ -94,13 +96,13 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 import com.timposu.belajarspring.belajarspring.component.HelloComponentA;
 
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
-    	 ApplicationContext context = 
+    	 ApplicationContext context =
          		new AnnotationConfigApplicationContext(SpringConfiguration.class);
-    	
+
     	 HelloComponentA helloComponentA = context.getBean(HelloComponentA.class);
     	 helloComponentA.sayMessage();
      }
@@ -123,4 +125,3 @@ No Smoking
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EnY5pqMP0oc" frameborder="0" allowfullscreen></iframe>
-

@@ -37,7 +37,7 @@ Misal kita mau di linkan direktori temporary ke `~/Downloads/PackageOperation01`
 
 ```
 mkdir ~/Downloads/PackageOperation01
-sudo ln -s ~/Downloads/PackageOperation04 /tmp/PackageOperation01
+sudo ln -s ~/Downloads/PackageOperation01 /tmp/PackageOperation01
 ```
 
 Jalankan Android Studio.
